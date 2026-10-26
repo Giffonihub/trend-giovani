@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Trend giovani 15-25 anni</title>
+<style>
+:root{--bg:#f6f5f2;--panel:#fff;--fg:#1d1d1b;--muted:#6b6a66;--line:#e4e2dc;--acc:#1f4e79;--pos:#2e7d32;--neg:#c62828;--mix:#d17a00;--neu:#7a7a7a;color-scheme:light;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--panel:#1f1f1d;--fg:#ecebe6;--muted:#a09f99;--line:#33322f;--acc:#7fb2e5;--pos:#66bb6a;--neg:#ef5350;--mix:#ffa726;--neu:#9e9e9e;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:20px 16px 48px}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end;justify-content:space-between;margin-bottom:18px}
+h1{font-size:24px;margin:0}
+.sub{color:var(--muted);font-size:13px}
+select{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--fg)}
+.tabs{display:flex;gap:6px;margin-bottom:16px;overflow-x:auto}
+.tab{border:1px solid var(--line);background:var(--panel);color:var(--fg);padding:8px 16px;border-radius:999px;cursor:pointer;font:inherit;white-space:nowrap}
+.tab.on{background:var(--acc);border-color:var(--acc);color:var(--bg)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:16px}
+.kpi,.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.kpi b{display:block;font:600 28px/1.1 Georgia,"Times New Roman",serif}
+.kpi span{color:var(--muted);font-size:13px}
+.grid{display:grid;grid-template-columns:1fr;gap:16px}
+@media (min-width:860px){.grid{grid-template-columns:1.1fr 1fr}}
+h2{font-size:16px;margin:0 0 10px}
+.chart{overflow-x:auto}
+.topic{border-top:1px solid var(--line);padding:12px 0}
+.topic:first-of-type{border-top:0;padding-top:0}
+.topic h3{font-size:15px;margin:0 0 4px}
+.meta{font-size:12.5px;color:var(--muted);margin-bottom:4px}
+.badge{display:inline-block;font-size:11.5px;padding:1px 8px;border-radius:999px;border:1px solid currentColor;margin-right:6px}
+.lista{margin:0;padding-left:20px}.lista li{margin-bottom:8px}.lista a{color:var(--fg);text-decoration:none}.lista a:hover{text-decoration:underline}
+.fonti{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin-top:16px}
+.links a{font-size:12.5px;color:var(--acc);margin-right:10px;text-decoration:none}
+.empty{padding:40px 16px;text-align:center;color:var(--muted)}
+#tip{position:fixed;pointer-events:none;background:var(--fg);color:var(--bg);font-size:12px;padding:5px 8px;border-radius:6px;opacity:0;transition:opacity .1s;max-width:260px}
+footer{margin-top:24px;font-size:12px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div><h1>Trend giovani 15-25 anni</h1><div class="sub" id="sub">Reddit, YouTube, Google Trends e Twitch, ultime 24 ore</div></div>
+    <select id="giorno" aria-label="Giorno"></select>
+  </header>
+  <div class="tabs" id="tabs"></div>
+  <div id="main"><div class="empty">Caricamento…</div></div>
+  <div class="card" style="margin-top:16px"><h2>Commenti Reddit analizzati per giorno</h2><div class="chart" id="storico"></div></div>
+  <footer>Reddit: panel di subreddit a pubblico giovane. YouTube: video più popolari per Paese. Google Trends: ricerche in crescita per Paese. Twitch: dirette in corso al momento della raccolta. Nessuna fonte espone l’età degli utenti: la fascia 15-25 è un’approssimazione.</footer>
+</div>
+<div id="tip"></div>
+<script>
+const COL={positivo:"var(--pos)",negativo:"var(--neg)",misto:"var(--mix)",neutro:"var(--neu)"};
+const AREE=["Italia","Europa","Mondo"];
+let indice=[],giorno=null,area=location.hash.slice(1)||"Italia";
+const $=s=>document.querySelector(s), el=(t,c,txt)=>{const e=document.createElement(t);if(c)e.className=c;if(txt!=null)e.textContent=txt;return e};
+const fmt=n=>Number(n||0).toLocaleString("it-IT");
+const tip=$("#tip");
+function showTip(e,t){tip.textContent=t;tip.style.opacity=1;const x=Math.min(e.clientX+12,innerWidth-tip.offsetWidth-8);tip.style.left=x+"px";tip.style.top=(e.clientY+14)+"px"}
+function hideTip(){tip.style.opacity=0}
+
+async function carica(){
+  try{indice=await (await fetch("data/index.json",{cache:"no-store"})).json()}catch(e){indice=[]}
+  if(!indice.length){$("#main").innerHTML="";$("#main").append(el("div","empty","Nessun report ancora. Avvia il workflow su GitHub per generare il primo."));return}
+  const sel=$("#giorno");
+  [...indice].reverse().forEach(g=>{const o=el("option",null,new Date(g.data).toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long",year:"numeric"}));o.value=g.data;sel.append(o)});
+  sel.onchange=()=>apri(sel.value);
+  disegnaStorico();
+  apri(sel.value);
+}
+async function apri(d){
+  try{giorno=await (await fetch(`data/${d}.json`,{cache:"no-store"})).json()}catch(e){giorno=null}
+  disegna();
+}
+function disegnaTabs(){
+  const t=$("#tabs");t.innerHTML="";
+  AREE.forEach(a=>{const b=el("button","tab"+(a===area?" on":""),a);b.onclick=()=>{area=a;history.replaceState(null,"","#"+a);disegna()};t.append(b)});
+}
+function disegna(){
+  disegnaTabs();
+  const m=$("#main");m.innerHTML="";
+  const A=giorno&&giorno.aree&&giorno.aree[area];
+  const F=(A&&A.fonti)||{};
+  const temi=(A&&A.temi)||[];
+  if(!A||(!temi.length&&!Object.keys(F).length)){m.append(el("div","empty","Nessun dato per quest’area in questo giorno."));return}
+  if(temi.length){
+    const k=el("div","kpis");
+    [[fmt(A.post_analizzati),"post Reddit analizzati"],[fmt(A.commenti_totali),"commenti nei post"],[temi.filter(t=>t.variazione==="nuovo").length,"temi nuovi rispetto a ieri"],[temi.filter(t=>t.variazione==="in crescita").length,"temi in crescita"]]
+      .forEach(([v,l])=>{const c=el("div","kpi");c.append(el("b",null,v),el("span",null,l));k.append(c)});
+    m.append(k);
+    const g=el("div","grid");
+    const c1=el("div","card");c1.append(el("h2",null,"Reddit: volume di discussione per tema"));const ch=el("div","chart");c1.append(ch);
+    const c2=el("div","card");c2.append(el("h2",null,"Reddit: i temi del giorno"));
+    temi.forEach((t,i)=>{
+      const d=el("div","topic");d.append(el("h3",null,`${i+1}. ${t.titolo}`));
+      const mt=el("div","meta");
+      if(t.tono!=="n.d."){const b=el("span","badge",t.tono);b.style.color=COL[t.tono]||"var(--neu)";mt.append(b)}
+      mt.append(document.createTextNode((t.variazione!=="n.d."?t.variazione+" · ":"")+`${fmt(t.n_post)} post · ${fmt(t.commenti)} commenti`));
+      d.append(mt,el("div",null,t.sintesi));
+      const l=el("div","links");(t.esempi||[]).forEach(p=>{const a=el("a",null,"r/"+p.sub);a.href=p.url;a.target="_blank";a.rel="noopener";a.title=p.titolo;l.append(a)});
+      d.append(l);c2.append(d);
+    });
+    g.append(c1,c2);m.append(g);
+    barre(ch,temi);
+  }
+  const fo=el("div","fonti");
+  const lista=(titolo,items,riga)=>{const c=el("div","card");c.append(el("h2",null,titolo));const ol=el("ol","lista");items.forEach(x=>{const li=el("li");riga(li,x);ol.append(li)});c.append(ol);fo.append(c)};
+  const link=(li,testo,url)=>{if(url){const a=el("a",null,testo);a.href=url;a.target="_blank";a.rel="noopener";li.append(a)}else li.append(el("span",null,testo))};
+  if(F.google_trends)lista("Google Trends: ricerche in crescita",F.google_trends,(li,x)=>{link(li,x.ricerca,x.url);li.append(el("div","meta",`${x.paese} · ${x.volume_testo} ricerche`+(x.notizia?` · ${x.notizia}`:"")))});
+  if(F.youtube)lista("YouTube: video più commentati tra i più visti",F.youtube,(li,x)=>{link(li,x.titolo,x.url);li.append(el("div","meta",`${x.canale} · ${x.paese} · ${fmt(x.visualizzazioni)} visualizzazioni · ${fmt(x.commenti)} commenti`))});
+  if(F.twitch){
+    lista("Twitch: categorie più seguite in diretta",F.twitch.categorie,(li,x)=>{li.append(el("span",null,x.categoria));li.append(el("div","meta",`${fmt(x.spettatori)} spettatori`))});
+    lista("Twitch: streamer con più spettatori",F.twitch.streamer,(li,x)=>{link(li,x.nome,x.url);li.append(el("div","meta",`${x.categoria} · ${fmt(x.spettatori)} spettatori`))});
+  }
+  if(fo.children.length)m.append(fo);
+}
+function barre(box,temi){
+  const W=Math.max(box.clientWidth,300),rh=30,lw=Math.min(190,W*.42),H=temi.length*rh+6,max=Math.max(1,...temi.map(t=>t.engagement));
+  const ns="http://www.w3.org/2000/svg",svg=document.createElementNS(ns,"svg");
+  svg.setAttribute("viewBox",`0 0 ${W} ${H}`);svg.setAttribute("width","100%");
+  temi.forEach((t,i)=>{
+    const y=i*rh+3,w=(W-lw-50)*t.engagement/max;
+    const tx=document.createElementNS(ns,"text");tx.setAttribute("x",lw-8);tx.setAttribute("y",y+17);tx.setAttribute("text-anchor","end");tx.setAttribute("font-size","12");tx.setAttribute("fill","var(--fg)");
+    tx.textContent=t.titolo.length>28?t.titolo.slice(0,27)+"…":t.titolo;svg.append(tx);
+    const r=document.createElementNS(ns,"rect");r.setAttribute("x",lw);r.setAttribute("y",y+4);r.setAttribute("height",rh-10);r.setAttribute("width",Math.max(2,w));r.setAttribute("rx",4);r.setAttribute("fill",COL[t.tono]||"var(--acc)");
+    r.addEventListener("mousemove",e=>showTip(e,`${t.titolo}: ${fmt(t.commenti)} commenti, ${fmt(t.n_post)} post, tono ${t.tono}`));r.addEventListener("mouseleave",hideTip);svg.append(r);
+    const v=document.createElementNS(ns,"text");v.setAttribute("x",lw+Math.max(2,w)+6);v.setAttribute("y",y+17);v.setAttribute("font-size","11");v.setAttribute("fill","var(--muted)");v.textContent=fmt(t.commenti);svg.append(v);
+  });
+  box.append(svg);
+}
+function disegnaStorico(){
+  const box=$("#storico");box.innerHTML="";
+  const dati=indice.slice(-30);if(dati.length<2){box.append(el("div","sub","Il grafico compare dal secondo giorno di raccolta."));return}
+  const W=Math.max(box.clientWidth,300),H=200,p={l:52,r:12,t:10,b:28};
+  const max=Math.max(1,...dati.flatMap(g=>AREE.map(a=>(g.aree[a]||{}).commenti_totali||0)));
+  const x=i=>p.l+(W-p.l-p.r)*i/(dati.length-1),y=v=>H-p.b-(H-p.t-p.b)*v/max;
+  const ns="http://www.w3.org/2000/svg",svg=document.createElementNS(ns,"svg");svg.setAttribute("viewBox",`0 0 ${W} ${H}`);svg.setAttribute("width","100%");
+  [0,.5,1].forEach(f=>{const l=document.createElementNS(ns,"line");l.setAttribute("x1",p.l);l.setAttribute("x2",W-p.r);l.setAttribute("y1",y(max*f));l.setAttribute("y2",y(max*f));l.setAttribute("stroke","var(--line)");svg.append(l);
+    const t=document.createElementNS(ns,"text");t.setAttribute("x",p.l-6);t.setAttribute("y",y(max*f)+4);t.setAttribute("text-anchor","end");t.setAttribute("font-size","11");t.setAttribute("fill","var(--muted)");t.textContent=fmt(Math.round(max*f));svg.append(t)});
+  [0,dati.length-1].forEach(i=>{const t=document.createElementNS(ns,"text");t.setAttribute("x",x(i));t.setAttribute("y",H-8);t.setAttribute("text-anchor",i?"end":"start");t.setAttribute("font-size","11");t.setAttribute("fill","var(--muted)");t.textContent=new Date(dati[i].data).toLocaleDateString("it-IT",{day:"numeric",month:"short"});svg.append(t)});
+  const colori=["var(--acc)","var(--mix)","var(--pos)"];
+  AREE.forEach((a,k)=>{
+    const pts=dati.map((g,i)=>`${x(i)},${y((g.aree[a]||{}).commenti_totali||0)}`).join(" ");
+    const pl=document.createElementNS(ns,"polyline");pl.setAttribute("points",pts);pl.setAttribute("fill","none");pl.setAttribute("stroke",colori[k]);pl.setAttribute("stroke-width","2");svg.append(pl);
+    dati.forEach((g,i)=>{const c=document.createElementNS(ns,"circle");c.setAttribute("cx",x(i));c.setAttribute("cy",y((g.aree[a]||{}).commenti_totali||0));c.setAttribute("r",4);c.setAttribute("fill",colori[k]);
+      c.addEventListener("mousemove",e=>showTip(e,`${a}, ${new Date(g.data).toLocaleDateString("it-IT")}: ${fmt((g.aree[a]||{}).commenti_totali)} commenti`));c.addEventListener("mouseleave",hideTip);svg.append(c)});
+  });
+  box.append(svg);
+  const leg=el("div","sub");AREE.forEach((a,k)=>{const s=el("span",null,"● "+a+"   ");s.style.color=colori[k];leg.append(s)});box.append(leg);
+}
+let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(indice.length){disegnaStorico();disegna()}},200)});
+carica();
+</script>
+</body>
+</html>

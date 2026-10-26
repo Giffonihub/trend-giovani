@@ -1,0 +1,10 @@
+{
+  "aree": {
+    "Italia": ["italy", "Italia", "CasualIT", "Universitaly", "ItaliaPersonalFinance", "ItalyInformatica", "ItaliaCareerAdvice"],
+    "Europa": ["europe", "AskEurope", "YUROP", "france", "de", "spain"],
+    "Mondo": ["GenZ", "teenagers", "college", "AskReddit", "popculturechat", "gaming", "technology"]
+  },
+  "post_per_subreddit": 40,
+  "post_max_per_area": 150,
+  "temi_per_area": 10
+}

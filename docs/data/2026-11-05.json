@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-05",
+ "generato": "2026-11-05T12:59:26.581281+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "ben shelton",
+      "paese": "IT",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Ben Shelton set to hire Carlos Alcaraz’s former mentor Juan Carlos Ferrero",
+      "url": "https://www.thetimes.com/sport/tennis/article/ben-shelton-carlos-alcaraz-mentor-juan-carlos-ferrero-7prbfvw2l"
+     },
+     {
+      "ricerca": "cristiano ronaldo",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Cristiano Ronaldo retires: Portugal forward says he is quitting international football",
+      "url": "https://www.bbc.com/sport/football/articles/cme8rxx2e1w9o"
+     },
+     {
+      "ricerca": "ferencvaros",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Il Milan cerca la scossa in Europa: da Rabiot a Cisse, le scelte di Amorim col Ferencvaros",
+      "url": "https://www.gazzetta.it/Calcio/Serie-A/Milan/05-11-2026/milan-ferencvaros-formazione-scelte-amorim-rabiot-cisse.shtml"
+     },
+     {
+      "ricerca": "bonus elettrodomestici 2027",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Bonus mobili e voucher elettrodomestici, nel 2027 doppio sconto per arredare casa",
+      "url": "https://www.ilsole24ore.com/art/bonus-mobili-e-voucher-elettrodomestici-2027-doppio-sconto-arredare-casa-AJzRIk4B"
+     },
+     {
+      "ricerca": "tassa sui rifiuti",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Scatta il saldo Tari. Attenzione alle agevolazioni del Comune, sconto per i cassonetti lontani",
+      "url": "https://www.repubblica.it/economia/diritti-e-consumi/casa/2026/11/04/news/saldo_tari_agevolazioni_prima_casa_comuni-425697328/"
+     },
+     {
+      "ricerca": "cr7",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Ufficiale, Cristiano Ronaldo dice addio al Portogallo: è la fine di un'era",
+      "url": "https://www.gazzetta.it/Calcio/Estero/05-11-2026/cristiano-ronaldo-si-ritira-nazionale-portoghese-ufficiale.shtml"
+     },
+     {
+      "ricerca": "sale arricchito di potassio",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Sale con potassio, quasi 3 milioni di morti evitabili all’anno? La stima su 193 Paesi",
+      "url": "https://www.mondosanita.it/news/studi-e-ricerca/114261/sale-con-potassio-quasi-3-milioni-di-morti-evitabili-allanno-la-stima-su-193-paesi.html"
+     },
+     {
+      "ricerca": "cambiaso",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Come ti cambio Cambiaso: la missione di Spalletti e l'alternativa quasi pronta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152385446/come_ti_cambio_cambiaso_la_missione_di_spalletti_e_l_alternativa_quasi_pronta"
+     },
+     {
+      "ricerca": "arthur rinderknech",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Berrettini withdraws from Paris, misses clash with Alcaraz",
+      "url": "https://www.repubblica.it/en/sport/tennis/2026/11/05/news/berrettini_withdraws_from_paris_misses_clash_with_alcaraz-425701277/"
+     },
+     {
+      "ricerca": "ezekiel williams",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Murder investigation after footballer dies in Milton Keynes",
+      "url": "https://www.bbc.com/news/articles/cr20w9q3y9dqo"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "einkommensteuer",
+      "paese": "DE",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "So viel Steuern zahlen Rentner bei 1.000, 1.300, 1.800 oder 2.000 Euro Rente",
+      "url": "https://www.gegen-hartz.de/news/so-viel-steuern-zahlen-rentner-bei-1-000-1-300-1-800-oder-2-000-euro-rente"
+     },
+     {
+      "ricerca": "avion dublin rome evreux",
+      "paese": "FR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Un A320 reliant Dublin à Rome s’est « posé en sécurité » à Evreux après une alerte à la bombe, des incidents similaires se succèdent en Europe",
+      "url": "https://www.lemonde.fr/international/article/2026/11/05/alertes-a-la-bombe-un-a320-reliant-dublin-a-rome-s-est-pose-en-securite-a-evreux-des-incidents-similaires-se-succedent-en-europe_6806848_3210.html"
+     },
+     {
+      "ricerca": "cristian corvillo",
+      "paese": "ES",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "La UCO lanza una nueva operación anticorrupción: se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
+      "url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html"
+     },
+     {
+      "ricerca": "cristiano ronaldo",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Cristiano Ronaldo retires: Portugal forward says he is quitting international football",
+      "url": "https://www.bbc.com/sport/football/articles/cme8rxx2e1w9o"
+     },
+     {
+      "ricerca": "flights bomb threats",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Plane bomb threats: Multiple flights in Europe hit by 'malicious hoax threats' - UK minister",
+      "url": "https://www.bbc.co.uk/news/live/cwjdmnrg94ezt"
+     },
+     {
+      "ricerca": "tatort",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "\"Doitscha\"-Star Mark Waschke privat: So lebt er mit seiner Frau abseits des Rampenlichts",
+      "url": "https://www.joyn.de/bts/serien/tatort/doitscha-mark-waschke-tatort-kommissar-mit-seiner-frau-133181"
+     },
+     {
+      "ricerca": "bombendrohungen flugzeug",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Bombendrohung gegen mindestens 10 Flüge in Europa",
+      "url": "https://www.bild.de/news/ausland/schon-wieder-flugzeug-nach-bombendrohung-umgeleitet-6aec4dd209e0301c03e803e6"
+     },
+     {
+      "ricerca": "agriculteur",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "« C’est très exceptionnel » : les chasseurs autorisés à tirer de nuit sur des sangliers dans deux communes du Morbihan",
+      "url": "https://www.ouest-france.fr/bretagne/languidic-56440/les-chasseurs-pourront-tirer-de-nuit-sur-des-sangliers-dans-ces-communes-du-morbihan-0ab31b86-d794-11f1-a1e1-ae8104d72c9a"
+     },
+     {
+      "ricerca": "romain pilliard",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Route du Rhum 2026. Pour la course et pour la « com », ciel sombre pour Violette Dorange, une cagnotte pour aider Romain Pillard",
+      "url": "https://www.sudouest.fr/sport/voile/violette-dorange/route-du-rhum-2026-pour-la-course-et-pour-la-com-ciel-sombre-pour-violette-dorange-une-cagnotte-pour-aider-romain-pillard-31378382.php"
+     },
+     {
+      "ricerca": "ben shelton",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Juan Carlos Ferrero: Ben Shelton appoints Carlos Alcaraz's former coach - will it work?",
+      "url": "https://www.bbc.com/sport/tennis/articles/crz654jdzdqpo"
+     },
+     {
+      "ricerca": "ben shelton",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Ben Shelton set to hire Carlos Alcaraz’s former mentor Juan Carlos Ferrero",
+      "url": "https://www.thetimes.com/sport/tennis/article/ben-shelton-carlos-alcaraz-mentor-juan-carlos-ferrero-7prbfvw2l"
+     },
+     {
+      "ricerca": "kompromiss",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Rente mit 63 abschaffen: Frei lehnt jeden Kompromiss ab",
+      "url": "https://www.cash-online.de/a/rente-mit-63-abschaffen-frei-lehnt-jeden-kompromiss-ab-729539/"
+     },
+     {
+      "ricerca": "paris saint-germain",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Le coup d'envoi de Paris Saint-Germain - ESTAC",
+      "url": "https://www.dazn.com/fr-FR/news/football/le-coup-denvoi-de-paris-saint-germain-estac/1bv1z4cvqvyfx1174yhcf5z689"
+     },
+     {
+      "ricerca": "callum turner",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Callum Turner emerges as James Bond favourite as Pierce Brosnan endorses actor: ‘He’s so strong’",
+      "url": "https://www.theguardian.com/film/2026/nov/04/callum-turner-favourite-new-james-bond-pierce-brosnan-endorses"
+     },
+     {
+      "ricerca": "actualité",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "L'actu du 4 novembre 2026",
+      "url": "https://www.bfmtv.com/lyon/replay-emissions/bonsoir-lyon/video-l-actu-du-4-novembre-2026_VN-202611040872.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "cristiano ronaldo",
+      "paese": "BR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Cristiano Ronaldo anuncia que não vai mais jogar pela seleção de Portugal; vídeo",
+      "url": "https://oglobo.globo.com/esportes/noticia/2026/11/05/cristiano-ronaldo-se-aposenta-definitivamente-da-selecao-de-portugal.ghtml"
+     },
+     {
+      "ricerca": "hurricane season",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Tracking potential tropical development",
+      "url": "https://cbs12.com/news/local/tracking-potential-tropical-development-11-04-2026"
+     },
+     {
+      "ricerca": "urupês",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Justiça manda suspender 'Bolsa Mounjaro' em Urupês; prefeitura aplicava versão manipulada, comprada com emenda de Tiririca",
+      "url": "https://g1.globo.com/saude/noticia/2026/11/05/justica-manda-suspender-bolsa-mounjaro-em-urupes-prefeitura-aplicava-versao-manipulada-comprada-com-emenda-de-tiririca.ghtml"
+     },
+     {
+      "ricerca": "edital ibge",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Edital IBGE 2026 saiu! 27.279 vagas para Recenseador",
+      "url": "https://blog.grancursosonline.com.br/concurso-ibge-temporarios-recenseador-edital-publicado-2026/"
+     },
+     {
+      "ricerca": "quinto dia util novembro 2026",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Quando é o quinto dia útil em novembro de 2026? Veja data-limite para pagamento do salário",
+      "url": "https://valor.globo.com/legislacao/noticia/2026/11/04/qual-o-quinto-dia-util-de-novembro-de-2026-veja-data-limite-para-pagamento-do-salario.ghtml"
+     },
+     {
+      "ricerca": "ben shelton",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff",
+      "url": "https://www.espn.com/tennis/story/_/id/50353478/ben-shelton-adds-coach-juan-carlos-ferrero-2027-staff"
+     },
+     {
+      "ricerca": "corrida de reis 2027",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Corrida de Reis 2027 abre inscrições para o público geral nesta quinta-feira",
+      "url": "https://ge.globo.com/mt/corrida-de-reis/noticia/2026/11/04/corrida-de-reis-2027-abre-inscricoes-para-o-publico-geral-nesta-quinta-feira.ghtml"
+     },
+     {
+      "ricerca": "amc stock",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "AMC Entertainment Holdings, Inc. Reports Third Quarter 2026 Results, Setting New All-Time Records for Quarterly Revenue and Adjusted EBITDA",
+      "url": "https://investor.amctheatres.com/news-events/press-releases/detail/446/amc-entertainment-holdings-inc-reports-third-quarter-2026-results-setting-new-all-time-records-for-quarterly-revenue-and-adjusted-ebitda"
+     },
+     {
+      "ricerca": "pe de meia universitário",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Pé-de-Meia Universitário deve começar em 2027 para aluno do CadÚnico",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-universitario-deve-comecar-em-2027-para-aluno-do-cadunico"
+     },
+     {
+      "ricerca": "ben shelton",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Shelton to add Juan Carlos Ferrero to coaching team",
+      "url": "https://www.atptour.com/en/news/shelton-ferrero-coaching-news-2026"
+     },
+     {
+      "ricerca": "protest",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Live updates: France braces for what could be its largest day of protests in years as economy fuels unrest",
+      "url": "https://www.cnn.com/2026/11/05/world/live-news/france-strikes-protests-action-schools-intl"
+     },
+     {
+      "ricerca": "आईफ़ोन",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "आ रहा है iPhone 18, कैमरा से लेकर डिस्प्ले तक, मिलेगा नया अवतार",
+      "url": "https://www.aajtak.in/technology/tech-news/story/apple-iphone-18-launch-expected-in-2027-120hz-display-and-price-hike-dskc-2688543-2026-11-05"
+     },
+     {
+      "ricerca": "zelda",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Les développeurs ont la parole, Vol. 24 : The Legend of Zelda: Ocarina of Time – Chapitre 1",
+      "url": "https://www.nintendo.com/fr-fr/News/2026/Novembre/Les-developpeurs-ont-la-parole-Vol-24-The-Legend-of-Zelda-Ocarina-of-Time-Chapitre-1-3230318.html"
+     },
+     {
+      "ricerca": "charles porter",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "'Wendell Scott' star Charles F. Porter dies at 47 after cancer battle",
+      "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/04/charles-f-porter-dead-cancer-battle/92619942007/"
+     },
+     {
+      "ricerca": "amlodipine recall",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Blood pressure medication recalled as it may be ineffective, FDA says",
+      "url": "https://www.wusa9.com/article/news/nation-world/blood-pressure-medication-recalled-olmesartan-medoxomil-amlodipine-hydrochlorothiazide/507-8f431ffb-301b-42a1-9064-9d09c86215be"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-06",
+ "generato": "2026-11-06T12:47:01.385794+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "george russell",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Mercedes has made a decision on the engine upgrade and Russell’s grid penalty",
+      "url": "https://www.gpblog.com/en/exclusive-news/mercedes-has-made-a-decision-on-the-long-awaited-engine-upgrade"
+     },
+     {
+      "ricerca": "martina colombari",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "\"Ho un buco nella pancia, ci passa una mano. Non mi opero, l'intervento è molto pericoloso. Le scappatelle? Non sono poco ma non sono neanche così bigotta\": così Martina Colombari a La Volta Buona",
+      "url": "https://www.ilfattoquotidiano.it/2026/11/06/ho-un-buco-nella-pancia-ci-passa-una-mano-non-mi-opero-lintervento-e-molto-pericoloso-le-scappatelle-non-sono-poco-ma-non-sono-neanche-cosi-bigotta-cosi-martina-colombari-a-la-volta-buona/8562682/"
+     },
+     {
+      "ricerca": "povertà",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Schlein: \"La manovra va riscritta. Anche le regioni di centrodestra protestano\"",
+      "url": "https://www.repubblica.it/politica/2026/11/05/video/schlein_la_manovra_va_riscritta_anche_le_regioni_di_centrodestra_protestano-425702456/"
+     },
+     {
+      "ricerca": "vaccino",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Melanoma, dall’Istituto dei Tumori di Milano un vaccino per ridurre il rischio di recidiva: lo studio e i risultati",
+      "url": "https://www.ilgiorno.it/milano/cronaca/vaccino-melanoma-recidiva-b0x6f8h9"
+     },
+     {
+      "ricerca": "insolvenza",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Foglio di giurisprudenza.",
+      "url": "https://www.ilcaso.it/sentenze/ultime/35559?Nella-procedura-del-consumatore-opera-l%E2%80%99esdebitazione-del-credito-per-sanzioni-amministrative"
+     },
+     {
+      "ricerca": "vivere",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Ornella Vanoni canta Vivere, la cover e il post di Vasco Rossi",
+      "url": "https://tg24.sky.it/spettacolo/musica/2026/11/06/vivere-ornella-vanoni-vasco-rossi"
+     },
+     {
+      "ricerca": "imprenditore",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Casalesi, sequestrati beni a un imprenditore ritenuto vicino al clan: 11 immobili, 3 società e 33 rapporti finanziari",
+      "url": "https://www.ilmattino.it/schede/casalesi_sequestro_imprenditore_dia_napoli_immobili_societa_rapporti_finanziari-9873058.html"
+     },
+     {
+      "ricerca": "berardi",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Aquilani: \"Berardi e Volpato sono out, domani serve una reazione\"",
+      "url": "https://www.fantacalcio.it/news/calcio-italia/06_11_2026/aquilani-berardi-e-volpato-sono-out-domani-serve-una-reazione-500365"
+     },
+     {
+      "ricerca": "motorola signature 27",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "motorola signature 27 ufficiale: il flagship che non ti aspetti. E il primo con GrapheneOS",
+      "url": "https://www.dday.it/redazione/59355/motorola-signature-27-ufficiale-il-flagship-che-non-ti-aspetti-e-il-primo-con-grapheneos"
+     },
+     {
+      "ricerca": "melania rea",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Il delitto di Melania Rea, dall'inizio: Il tentativo di depistaggio, la soldatessa-amante e la «doppia tenaglia» che ha incastrato Parolisi",
+      "url": "https://www.corriere.it/cronache/26_novembre_06/melania-rea-delitto-parolisi-storia-599a5c7d-575b-4902-9dd4-5e52822f3xlk.shtml"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "tod",
+      "paese": "DE",
+      "volume": 20000,
+      "volume_testo": "20000+",
+      "notizia": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html"
+     },
+     {
+      "ricerca": "volkswagen financial services",
+      "paese": "DE",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Volkswagen: Was der Wertverlust bei gebrauchten Verbrennern für VW bedeutet",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-was-der-wertverlust-bei-gebrauchten-verbrennern-fuer-vw-bedeutet/100266777.html"
+     },
+     {
+      "ricerca": "reims",
+      "paese": "FR",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Découvrez tous les produits du JCC Pokémon qui sortiront en novembre 2026",
+      "url": "https://www.pokemon.com/fr/actualites/decouvrez-tous-les-produits-du-jcc-pokemon-qui-sortiront-en-novembre-2026"
+     },
+     {
+      "ricerca": "lzb",
+      "paese": "ES",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "La sincera reacción de Militao a la foto de Bellingham que revoluciona las redes: “Está loco, no puede subir e",
+      "url": "https://as.com/futbol/videos/esta-loco-la-sincera-reaccion-de-militao-a-la-foto-de-bellingham-que-revoluciona-las-redes-f202611-v/"
+     },
+     {
+      "ricerca": "marc roca",
+      "paese": "ES",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Luis de la Fuente, sobre no parar la jornada de liga por la muerte de Jesús de Miguel: \"El homenaje y los recuerdos, en un campo de fútbol\"",
+      "url": "https://cadenaser.com/nacional/2026/11/06/luis-de-la-fuente-sobre-no-parar-la-jornada-liga-por-la-muerte-de-jesus-de-miguel-el-homenaje-y-los-recuerdos-en-un-campo-de-futbol-cadena-ser/"
+     },
+     {
+      "ricerca": "peter fitzek",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Es geht um Hunderte Taten und 10 Millionen Euro: „Reichsbürger-König“ kommt mit Müllsack ins Gericht",
+      "url": "https://www.bild.de/news/inland/es-geht-um-hunderte-taten-und-10-millionen-euro-reichsbuerger-koenig-kommt-mit-muellsack-ins-gericht-6aed87a147b5fce02f879c40"
+     },
+     {
+      "ricerca": "dkb",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "DKB-Störung am Freitag: Online-Banking und App nicht erreichbar - das sagt die Bank",
+      "url": "https://www.netzwelt.de/ist-down/260391-dkb-stoerung-freitag-kunden-kommen-ins-online-banking-tun.html"
+     },
+     {
+      "ricerca": "un bus scolaire a versé dans un fossé à lent, faisant deux morts et plusieurs blessés",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "'Several victims' after school bus crashes in France, officials say",
+      "url": "https://www.bbc.com/news/articles/cmly00l4p3lwo"
+     },
+     {
+      "ricerca": "fiscalía europea",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
+      "url": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html"
+     },
+     {
+      "ricerca": "housing market",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "UK house prices fall at steepest rate in more than three years",
+      "url": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years"
+     },
+     {
+      "ricerca": "jamal edwards",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "The Youtube channel that changed music: Remembering Jamal Edwards",
+      "url": "https://www.itv.com/thismorning/articles/the-youtube-channel-that-changed-music-remembering-jamal-edwards"
+     },
+     {
+      "ricerca": "käse",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Bakterien in Käse von der Schwäbischen Alb gefunden. Wie gefährlich sind Listerien?",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/hohensteiner-hofkaeserei-kaese-rueckruf-listerien-100.html"
+     },
+     {
+      "ricerca": "charles doré",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "\"Star Academy\" - Cette embrouille qui a valu des remontrances à Charles Doré lors de sa saison : \"C'était parti un peu en vrille\"",
+      "url": "https://www.parismatch.be/culture/medias/2026/11/05/cetait-parti-un-peu-en-vrille-charles-dore-revele-le-nom-de-la-candidate-avec-laquelle-il-sest-dispute-a-la-star-academy-KHF3LHJT4RFNJGXYYBKGECBGDA/"
+     },
+     {
+      "ricerca": "florent pagny",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Mariage de Florent Pagny à Montfort-L'Amaury : la tenue originale d'Azucena",
+      "url": "https://www.purepeople.com/diapo/pour-son-mariage-avec-florent-pagny-a-montfort-lamaury-azucena-avait-choisi-une-tenue-originale_a555817/1"
+     },
+     {
+      "ricerca": "antonio de la torre",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "‘Sacamantecas’: creíble ambientación en el retrato de un monstruo",
+      "url": "https://elpais.com/cultura/cine/2026-11-06/sacamantecas-creible-ambientacion-en-el-retrato-de-un-monstruo.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "avgo stock",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Is Broadcom Stock a Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-buy-now-182000414.html"
+     },
+     {
+      "ricerca": "weather nyc",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Our dry stretch is about to end. How much rain can the NYC area expect Thursday-Friday?",
+      "url": "https://www.nbcnewyork.com/weather/weather-stories/how-much-rain-nyc-expect-thursday-friday/6567761/"
+     },
+     {
+      "ricerca": "pakistan football team",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "India 3-2 Pakistan: Suhail Bhat stars as defending champions open SAFF Championship 2026 with win",
+      "url": "https://www.espn.in/football/story/_/id/50386048/india-vs-pakistan-live-latest-updates-commentary-score-news-saff-championship-2026"
+     },
+     {
+      "ricerca": "débito",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "PGFN esclarece regras sobre perdão de dívidas tributárias para MEIs — Procuradoria-Geral da Fazenda Nacional",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-esclarece-regras-sobre-perdao-de-dividas-tributarias-para-meis"
+     },
+     {
+      "ricerca": "jogo eletrônico",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Black Friday da PS Store começa amanhã (4); detalhes",
+      "url": "https://psxbrasil.com.br/black-friday-da-ps-store-comeca-amanha-4-detalhes/"
+     },
+     {
+      "ricerca": "diario online",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Após 50 anos, parque aquático tradicional fecha as portas após prejuízo milionário e pode virar galpão industrial",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/apos-50-anos-parque-aquatico-tradicional-fecha-as-portas-apos-prejuizo-milionario-e-pode-virar-galpao-industrial/"
+     },
+     {
+      "ricerca": "dustin hoffman",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Dustin Hoffman on Surviving “The Graduate”",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate"
+     },
+     {
+      "ricerca": "mrna stock",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Moderna Boosts Revenue Guidance on Strong Covid Vaccine Sales",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/moderna-boosts-revenue-guidance-on-strong-covid-vaccine-sales"
+     },
+     {
+      "ricerca": "yolanda beltrão de azevedo",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Quem são os três brasileiros entre as dez pessoas mais velhas do mundo? Conheça suas histórias",
+      "url": "https://oglobo.globo.com/brasil/noticia/2026/11/06/quem-sao-os-tres-brasileiros-entre-as-dez-pessoas-mais-velhas-do-mundo-conheca-suas-historias.ghtml"
+     },
+     {
+      "ricerca": "yangwang u9 xtreme",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "BYD U9 Extreme supera 500 km/h e bate próprio recorde mundial de velocidade",
+      "url": "https://autoesporte.globo.com/setor-automotivo/mercado-automotivo/noticia/2026/11/byd-u9-extreme-supera-500-kmh-recorde-mundial-velocidade.ghtml"
+     },
+     {
+      "ricerca": "bismarck jogador",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Campeão por clubes do Piauí, jogador Bismarck é morto em Natal",
+      "url": "https://cidadeverde.com/ultimas/465930/campeao-por-clubes-do-piaui-jogador-bismarck-e-morto-em-natal"
+     },
+     {
+      "ricerca": "equatorial energia",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "APÓS TEMPORAL – Equatorial esclarece providências adotadas após interrupção do fornecimento de energia em Niquelândia no feriado de Finados",
+      "url": "https://excelencianoticias.com.br/2026/11/03/apos-temporal-equatorial-esclarece-providencias-adotadas-apos-interrupcao-do-fornecimento-de-energia-em-niquelandia-no-feriado-de-finados/"
+     },
+     {
+      "ricerca": "forex factory news",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "In September 2026, French manufacturing output increases by 0.5%",
+      "url": "https://www.forexfactory.com/news/1434983-in-september-2026-french-manufacturing-output-increases-by"
+     },
+     {
+      "ricerca": "दी इकोनॉमिक्स टाइम्स",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "",
+      "url": ""
+     },
+     {
+      "ricerca": "झारखण्ड उच्च न्यायालय",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "भाइयों की खरीदी जमीन में बहन का हिस्सा नहीं, मां की संपत्ति में बराबर अधिकार; झारखंड हाई कोर्ट का फैसला",
+      "url": "https://www.jagran.com/jharkhand/ranchi-jharkhand-hc-sister-no-share-in-brothers-bought-land-equal-in-mothers-40428188.html"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-07",
+ "generato": "2026-11-07T11:35:35.612339+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "2027",
+      "paese": "IT",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Manovra 2027, bonus con Isee sotto i 35mila euro: quali sono e a chi spettano",
+      "url": "https://tg24.sky.it/economia/2026/11/07/bonus-isee-35-mila-euro-manovra-2027"
+     },
+     {
+      "ricerca": "f1 brasile",
+      "paese": "IT",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "F1, Antonelli domina le libere del Brasile. Lite Hamilton-Leclerc, interviene il team principal",
+      "url": "https://www.rainews.it/articoli/2026/11/f1-antonelli-domina-le-libere-del-brasile-ancora-tensioni-in-ferrari-d295ba22-40ea-4ec0-af13-4b7d1ee77358.html"
+     },
+     {
+      "ricerca": "roma sassuolo",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Roma-Sassuolo, le probabili formazioni: Gasperini con i soliti, Aquilani ne cambia quattro",
+      "url": "https://video.gazzetta.it/calcio/roma-sassuolo-le-probabili-formazioni-gasperini-con-i-soliti-aquilani-ne-cambia-quattro/b2e1fd2e-4f5d-49dc-8afa-466c3fa60xlk"
+     },
+     {
+      "ricerca": "como 1907 - roma",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Como 1907-Roma: le parole di Piovani e le convocate giallorosse",
+      "url": "https://www.asroma.com/it/notizie/76187/como-1907-roma-le-parole-di-piovani-e-le-convocate-giallorosse"
+     },
+     {
+      "ricerca": "13 novembre",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Un Posto al Sole, le anticipazioni dal 9 al 13 novembre",
+      "url": "https://www.gazzetta.it/spettacolo-tv-gossip/storie/06-11-2026/un-posto-al-sole-anticipazioni-upas-9-13-novembre-trama-puntate/la-settimana.shtml"
+     },
+     {
+      "ricerca": "pizza",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it | Luca Cesari",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked"
+     },
+     {
+      "ricerca": "ted lasso",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "‘Ted Lasso’ Season 5 release date info: Will there be a ‘Ted Lasso’ Season 5 on Apple TV?",
+      "url": "https://decider.com/2026/11/04/ted-lasso-season-5-release-date-info-ted-lasso-renewal-status-apple-tv/"
+     },
+     {
+      "ricerca": "ferita",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Tragedia lungo la Valchiampo. Auto esce di strada, morta donna e ferita una bimba di 2 anni",
+      "url": "https://www.ilgiornaledivicenza.it/territorio-vicentino/arzignano/tragedia-lungo-la-valchiampo-auto-esce-di-strada-morta-donna-e-ferita-una-bimba-di-2-anni-1.13176216"
+     },
+     {
+      "ricerca": "francesco passaro",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Lorenzo Musetti giocherà l'Atp 250 di Stoccolma",
+      "url": "https://sport.sky.it/tennis/2026/11/06/musetti-atp-stoccolma-annuncio-partecipazione"
+     },
+     {
+      "ricerca": "capodanno",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Capodanno, una proposta acchiappa turisti. Il Comune prepara una festa lunga 3 giorni",
+      "url": "https://www.ilrestodelcarlino.it/ancona/cronaca/capodanno-una-proposta-acchiappa-turisti-1560d746"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "sartène",
+      "paese": "FR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "\"Ma fille hurlait de douleur\" : une mère accuse la prise en charge à Sartène avant son hospitalisation à Ajaccio",
+      "url": "https://www.corsematin.com/article/sante/85048580277467/ma-fille-hurlait-de-douleur-une-mere-accuse-la-prise-en-charge-a-sartene-avant-son-hospitalisation-a-ajaccio"
+     },
+     {
+      "ricerca": "vito quiles",
+      "paese": "ES",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Pinchazo del ultra Vito Quiles en Ceuta: más policía que asistentes y un paripé de ‘huida’ en lancha privada con una litrona en la mano",
+      "url": "https://www.eldiario.es/desalambre/pinchazo-ultra-vito-quiles-ceuta-policia-asistentes-paripe-huida-lancha-privada-litrona-mano_1_13645948.html"
+     },
+     {
+      "ricerca": "fcn – darmstadt 98",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Liveticker | 1. FC Nürnberg - SV Darmstadt 98 : | 11. Spieltag | 2. Bundesliga 2026/27",
+      "url": "https://www.kicker.de/nuernberg-gegen-darmstadt-2026-bundesliga-5227206/ticker"
+     },
+     {
+      "ricerca": "vfl osnabrück – fck",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Liveticker | VfL Osnabrück - 1. FC Kaiserslautern : | 11. Spieltag | 2. Bundesliga 2026/27",
+      "url": "https://www.kicker.de/osnabrueck-gegen-klautern-2026-bundesliga-5227212/ticker"
+     },
+     {
+      "ricerca": "byd voiture",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Yangwang U9 Xtreme (2026). Le cap des 500 km/h franchi par la supercar électrique chinoise",
+      "url": "https://www.largus.fr/actualite-automobile/yangwang-u9-xtreme-2026-le-cap-des-500-km-h-franchi-par-la-supercar-electrique-chinoise-40016492.html"
+     },
+     {
+      "ricerca": "restaurante",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Cuánto cuesta comer en los 10 mejores restaurantes del mundo: menús desde 225 euros hasta 2.000",
+      "url": "https://elpais.com/gastronomia/restaurantes/2026-11-06/cuanto-cuesta-comer-en-los-10-mejores-restaurantes-del-mundo-menus-de-hasta-2000-euros-y-la-prohibicion-de-fumar-marihuana.html"
+     },
+     {
+      "ricerca": "ocarina",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+      "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch"
+     },
+     {
+      "ricerca": "car",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Man, 41, and boy, 16, arrested after car damaged by gunshots in Morriston",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o"
+     },
+     {
+      "ricerca": "ireland polar vortex weather forecast",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o"
+     },
+     {
+      "ricerca": "holstein – arminia",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "2. Liga: Holstein Kiel erwartet Arminia Bielefeld",
+      "url": "https://www.ndr.de/sport/fussball/holstein-kiel-empfaengt-bielefeld-und-will-sich-glueck-zurueckholen,kiel-1014.html"
+     },
+     {
+      "ricerca": "polizei berlin",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "13-Jährige vermisst – Polizei bittet um Mithilfe",
+      "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1734546.php"
+     },
+     {
+      "ricerca": "boeing 747-8",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Donald Trump’s Air Force One Trip Includes an Unexpected Bill Clinton Portrait",
+      "url": "https://www.yahoo.com/news/politics/articles/donald-trump-air-force-one-145604433.html"
+     },
+     {
+      "ricerca": "las palmas de gran canaria",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Cortes de tráfico en Las Palmas de Gran Canaria este sábado por la carrera Binter Night Run 2026",
+      "url": "https://www.canarias7.es/canarias/gran-canaria/las-palmas-de-gran-canaria/cortes-trafico-palmas-gran-canaria-sabado-carrera-20261106070000-nt.html"
+     },
+     {
+      "ricerca": "married at first sight",
+      "paese": "GB",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+      "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o"
+     },
+     {
+      "ricerca": "hells angels",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Hamburg: Polizei nimmt führenden Hells Angel fest",
+      "url": "https://www.bild.de/news/hamburg-polizei-nimmt-fuehrenden-hells-angel-fest-6aeed7da80d3a1c6aa66bede"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "gp do brasil",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Treino de classificação do GP do Brasil de Fórmula-1 ao vivo: veja onde assistir",
+      "url": "https://oglobo.globo.com/esportes/noticia/2026/11/07/treino-de-classificacao-do-gp-do-brasil-de-formula-1-ao-vivo-veja-onde-assistir.ghtml"
+     },
+     {
+      "ricerca": "luka doncic comments dirk nowitzki",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Lakers’ Luka Doncic calls out NBA mentor: ‘He don’t even call’",
+      "url": "https://sports.yahoo.com/articles/lakers-luka-doncic-calls-nba-051949870.html"
+     },
+     {
+      "ricerca": "will estes donnie wahlberg boston blue",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "'Boston Blue': Why Will Estes Was 'Terrified' to Play Jamie Reagan Again",
+      "url": "https://www.tvinsider.com/1302253/boston-blue-will-estes-jamie-reagan-danny-donnie-wahlberg-blue-bloods-interview/"
+     },
+     {
+      "ricerca": "alabama vs lsu",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Alabama's Ryan Coleman-Williams among trio to return vs. LSU",
+      "url": "https://www.espn.com/college-football/story/_/id/50401690/alabama-ryan-coleman-williams-trio-return-vs-lsu"
+     },
+     {
+      "ricerca": "gov.br",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Serpro revela ataque cibernético em massa ao Gov.br",
+      "url": "https://convergenciadigital.com.br/governo/serpro-revela-ataque-cibernetico-em-massa-ao-gov-br/"
+     },
+     {
+      "ricerca": "david warner",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "'It was all of us' - Khawaja exposes sandpaper details from 2018",
+      "url": "https://www.cricinfo.com/story/it-was-all-of-us-khawaja-exposes-sandpaper-details-from-2018-1561704"
+     },
+     {
+      "ricerca": "बैंक डकैती",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "बैंक लूट कर बदमाश चकाई में बाइक छोड़कर फरार: बटपार के पास लावारिस पड़ी थी, आरोपियों की जंगल में तलाशी जारी",
+      "url": "https://www.bhaskar.com/local/bihar/jamui/chakai/news/rajdhanwar-uco-bank-loot-giridih-police-recover-bike-chakai-139612679.html"
+     },
+     {
+      "ricerca": "पश्चिमी विक्षोभ",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "आज का मौसम 7 नवंबर: बादल गरजेंगे, बिजली कड़केगी, 40 KM की रप्तार से चलेगी हवा, दिल्‍ली भी नहीं बचेगी, IMD अ...",
+      "url": "https://hindi.news18.com/news/nation/imd-weather-today-7-november-western-disturbances-will-active-by-10-november-punjab-haryana-delhi-ncr-weather-change-10969326.html"
+     },
+     {
+      "ricerca": "shadman islam",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Shadman taken to hospital after twisting ankle",
+      "url": "https://www.cricbuzz.com/cricket-news/140805/shadman-taken-to-hospital-after-twisting-ankle-cricbuzzcom"
+     },
+     {
+      "ricerca": "ihsa football scores",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "IHSA football playoffs: Get the scores from 2nd-round games in Class 8A to 1A",
+      "url": "https://www.chicagotribune.com/2026/11/06/ihsa-state-football-playoff-pairings-schedule/"
+     },
+     {
+      "ricerca": "previsão do tempo joinville",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens e pancadas de chuva à tarde; à noite ocorre temporal",
+      "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-ocorre-temporal.ghtml"
+     },
+     {
+      "ricerca": "ronald sotto",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Em alta na Globo, Ronald Sotto é cotado para 3 novelas",
+      "url": "https://natelinha.uol.com.br/televisao/2026/11/06/em-alta-na-globo-ronald-sotto-e-cotado-para-3-novelas-250070.php"
+     },
+     {
+      "ricerca": "தேர்தல்",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "தேர்தல் பணியாற்றிய அரசு ஊழியர்களுக்கு ரூ. 45,000 வரை ஊக்கத்தொகை! ரூ. 198 கோடி ஒதுக்கீடு",
+      "url": "https://www.dinamani.com/tamilnadu/2026/Nov/07/incentives-of-up-to-rs-45000-for-govt-employees-who-worked-on-election-duty"
+     },
+     {
+      "ricerca": "পাবলিক সার্ভিস কমিশন, পশ্চিমবঙ্গ",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "প্রকাশিত হল ডব্লিউবিসিএস প্রিলিমিনারি ২০২৪-এর ফল, মেইনস জন্য উত্তীর্ণ কতজন? ফলাফল দেখবেন কী ভাবে?",
+      "url": "https://www.anandabazar.com/employment/the-west-bengal-public-service-commission-has-declared-the-west-bengal-civil-services-preliminary-examination-2024-result-dgtl/cid/1724534"
+     },
+     {
+      "ricerca": "sharad pawar ncp",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Sharad Pawar discharged from Mumbai hospital",
+      "url": "https://www.thehindu.com/news/national/sharad-pawar-discharged-from-mumbai-hospital/article71677827.ece"
+     }
+    ]
+   }
+  }
+ }
+}

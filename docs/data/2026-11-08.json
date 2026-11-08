@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-08",
+ "generato": "2026-11-08T11:47:26.249368+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "napoli - lazio",
+      "paese": "IT",
+      "volume": 50000,
+      "volume_testo": "50000+",
+      "notizia": "LIVE Alle 12.30 Napoli-Lazio, le ufficiali: Allegri sceglie Lang. Gattuso con Pinamonti centravanti",
+      "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/08-11-2026/napoli-lazio-live-risultato-e-gol-in-diretta-serie-a.shtml"
+     },
+     {
+      "ricerca": "ballando con le stelle classifica oggi",
+      "paese": "IT",
+      "volume": 20000,
+      "volume_testo": "20000+",
+      "notizia": "Ballando con le Stelle, Leonardo Pieraccioni e Tosca D'Aquino ballerini per una notte",
+      "url": "https://www.rainews.it/video/2026/11/ballando-con-le-stelle-leonardo-pieraccioni-e-tosca-daquino-ballerini-per-una-notte-941022d0-4fd3-492c-85eb-484eb0a80406.html"
+     },
+     {
+      "ricerca": "heerenveen - feyenoord",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Eén duel op het open kanaal: hier kijk je zondag naar PSV, Ajax en Feyenoord",
+      "url": "https://www.vi.nl/nieuws/een-duel-op-het-open-kanaal-hier-kijk-je-zondag-naar-psv-ajax-en-feyenoord"
+     },
+     {
+      "ricerca": "nola",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Archdiocese of New Orleans releases another list of priests and clergy credibly accused of sex abuse",
+      "url": "https://www.fox8live.com/2026/11/06/archdiocese-new-orleans-releases-another-list-priests-clergy-credibly-accused-sex-abuse/"
+     },
+     {
+      "ricerca": "juan cuadrado",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Cuadrado ai tifosi Juventus: \"Vi chiedo scusa per il mio passaggio all'Inter\"",
+      "url": "https://www.sportmediaset.mediaset.it/calcio/cuadrado-inter-juventus-scusa-tifosi_118727682-202602k.shtml"
+     },
+     {
+      "ricerca": "genoa milan",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Genoa-Milan, probabili formazioni: Amorim ne cambia 6 e in attacco punta sui big",
+      "url": "https://video.gazzetta.it/calcio/genoa-milan-probabili-formazioni-amorim-ne-cambia-6-e-in-attacco-punta-sui-big/2d247e98-b69a-417b-8e1f-0d95ed6c4xlk"
+     },
+     {
+      "ricerca": "2028",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Four things we learned this week about 2028 White House race",
+      "url": "https://www.bbc.com/news/articles/cq1m41n3v7mmo"
+     },
+     {
+      "ricerca": "wec",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Fuoco puts Ferrari on pole at Monza",
+      "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928"
+     },
+     {
+      "ricerca": "lele mora",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Lele Mora ricoverato a Roma per ictus dopo lo spettacolo: \"Risveglio durissimo, mi hanno strappato alla morte\"",
+      "url": "https://www.virgilio.it/notizie/lele-mora-ricoverato-a-roma-per-ictus-dopo-lo-spettacolo-risveglio-durissimo-mi-hanno-strappato-alla-morte-1794928"
+     },
+     {
+      "ricerca": "+49",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Southern Utah 143-49 Bethesda (Nov 7, 2026) Game Recap",
+      "url": "https://www.espn.com/mens-college-basketball/recap?gameId=401931055"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "ministre de l'éducation nationale de france",
+      "paese": "FR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Colère lycéenne : le ministre de l’Éducation nationale promet des sanctions contre les lycéens en cas de blocages",
+      "url": "https://actu.orange.fr/politique/colere-lyceenne-le-ministre-de-l-education-nationale-promet-des-sanctions-contre-les-lyceens-en-cas-de-blocages-l-express-via-6medias-CNT000002tBHLN.html"
+     },
+     {
+      "ricerca": "militar",
+      "paese": "ES",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Muere un soldado del Ejército de Tierra durante una instrucción militar en Zaragoza",
+      "url": "https://www.elmundo.es/espana/2026/11/08/6af038e8e85ececa1c8b456f.html"
+     },
+     {
+      "ricerca": "naples – lazio",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "DIRECT. Naples - Lazio Rome, Serie A : Le match commence !",
+      "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-italie/2026-2027/naples-lazio-rome-live/689985"
+     },
+     {
+      "ricerca": "ferran torres",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Après des débuts marquants au PSG, Ferran Torres est maintenant en crise de confiance",
+      "url": "https://www.lequipe.fr/Football/Actualites/Apres-des-debuts-marquants-au-psg-ferran-torres-est-maintenant-en-crise-de-confiance/1742145"
+     },
+     {
+      "ricerca": "barça - breogán",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Barcelona - Breogán, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo",
+      "url": "https://as.com/baloncesto/acb/barcelona-breogan-en-directo-acb-liga-endesa-202627-hoy-en-vivo-f202611-d/"
+     },
+     {
+      "ricerca": "neapel – lazio",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Serie A - SSC Neapel vs. Lazio Rom heute live im Ticker: Der Tabellenführer bei Napoli gefordert - Liveticker",
+      "url": "https://www.eurosport.de/fussball/serie-a/2026-2027/live-ssc-neapel-lazio-rom_mtc21874105/live-commentary.shtml"
+     },
+     {
+      "ricerca": "enseignant",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Dans le Val-de-Marne, la plainte d'une collègue bouleverse la carrière d'un professeur : l'affaire remonte jusqu'au Conseil d'État",
+      "url": "https://actu.fr/ile-de-france/alfortville_94002/dans-le-val-de-marne-la-plainte-d-une-collegue-bouleverse-la-carriere-d-un-professeur-l-affaire-remonte-jusqu-au-conseil-d-etat_65026377.html"
+     },
+     {
+      "ricerca": "burgos - valencia",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Vuelve a casa la Liga Endesa con un partido de alto nivel",
+      "url": "https://www.sanpabloburgos.com/es/noticia/ver/61398-vuelve-a-casa-la-liga-endesa-con-un-partido-de-alto-nivel.html"
+     },
+     {
+      "ricerca": "napoli - lazio",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Napoli-Lazio: le formazioni ufficiali. Fuori Anguissa, ci sono Vergara e Nuno Tavares",
+      "url": "https://www.fantacalcio.it/news/calcio-italia/08_11_2026/napoli-lazio-le-formazioni-ufficiali-500430"
+     },
+     {
+      "ricerca": "ascensor",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Instalar un ascensor tendrá ayudas de hasta el 70% de su coste",
+      "url": "https://eladelantado.com/provincia/2026/11/06/instalar-un-ascensor-tendra-ayudas-de-hasta-el-70-de-su-coste/"
+     },
+     {
+      "ricerca": "liberty woman insolvenzverfahren",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Netz von 115 Filialen: Große Mode-Kette meldet Insolvenz an",
+      "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101516712/insolvenz-grosse-mode-kette-liberty-ist-insolvent-115-filialen-betroffen.html"
+     },
+     {
+      "ricerca": "kaliumsalz",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Kalium statt Natrium: Wie anderes Salz Millionen Todesfälle verhindern könnte",
+      "url": "https://www.mdr.de/wissen/medizin-gesundheit/wie-anderes-salzen-millionen-todesfaelle-verhindern-koennte-kalium-natrium,salz-146.html"
+     },
+     {
+      "ricerca": "napoli - lazio",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Napoli-Lazio LIVE, diretta testuale Serie A: dove vedere, risultato, gol e formazioni",
+      "url": "https://www.dazn.com/it-IT/news/calcio/napoli-lazio-live-diretta-testuale-risultato-gol-formazioni-dove-vedere/1svp2ou8de85b1kl4xdfwlvims"
+     },
+     {
+      "ricerca": "carsten schneider",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Carsten Schneider: Umweltminister fährt privat 13 Jahre alten Diesel",
+      "url": "https://www.bild.de/politik/inland/carsten-schneider-umweltminister-faehrt-privat-13-jahre-alten-diesel-6af0175d80d3a1c6aa66cc00"
+     },
+     {
+      "ricerca": "alessandra meyer-wölden",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Patchwork-Herausforderung! So planen Oliver Pocher und Alessandra Meyer-Wölden ihr Weihnachtsfest",
+      "url": "https://www.rtl.de/unterhaltung/stars/oliver-pocher-und-alessandra-meyer-woelden-patchwork-herausforderung-wie-ihre-weihnachtsplaene-aussehen-id31508119.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "what is ufc",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Israel Adesanya vs. Shara Magomedov headlines UFC Saudi Arabia, Garry vs. Amosov co-headlines",
+      "url": "https://sports.yahoo.com/articles/israel-adesanya-vs-shara-magomedov-110000826.html"
+     },
+     {
+      "ricerca": "ರಾಮಾಯಣ: ಭಾಗ 1",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Ramayana Collection: 'ಟಾಕ್ಸಿಕ್, ಆದಿಪುರುಷ್' ದಾಖಲೆ ಮುರಿಯಲು ವಿಫಲ! 'ರಾಮಾಯಣ' ಫಸ್ಟ್‌ ಡೇ ಕಲೆಕ್ಷನ್ ಎಷ್ಟು ಗೊತ್ತಾ?",
+      "url": "https://kannada.asianetnews.com/news-entertainment/ramayana-movie-done-good-performance-at-the-box-office-on-its-opening-day-and-failed-to-break-toxic-and-adipurush-films/articleshow-n8l19kf"
+     },
+     {
+      "ricerca": "dp world tour",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Jon Rahm shoots 66 to lead by one in Abu Dhabi; Rory McIlroy 2 shots back",
+      "url": "https://www.espn.com/golf/story/_/id/50407605/jon-rahm-leads-1-rory-mcilroy-2-back-abu-dhabi"
+     },
+     {
+      "ricerca": "lorenzo sonego",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "November 8, 2026: Jacob Fearnley vs Alexander Shevchenko: Set 1 Winner Tennis Prediction Market",
+      "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/jacob-fearnley-vs-alexander-shevchenko-set-1-winner-nov-08-2026/"
+     },
+     {
+      "ricerca": "प्रधानमंत्री",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "छत्तीसगढ़ के बस्तर में सुरक्षा बलों के साथ बातचीत के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
+      "url": "https://www.pmindia.gov.in/hi/news_updates/%E0%A4%9B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%B8%E0%A4%97%E0%A4%A2%E0%A4%BC-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%81/?comment=disable"
+     },
+     {
+      "ricerca": "now",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Micron Soars 6% as Memory Stocks Bounce Back From Thursday’s 17% Crash",
+      "url": "https://www.tikr.com/blog/micron-soars-6-as-memory-stocks-bounce-back-from-thursdays-17-crash?"
+     },
+     {
+      "ricerca": "social security benefit cuts 2032",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "‘No vote, no warning, just plain math’: Social Security is six years from an automatic 22% cut—and most Americans have no idea",
+      "url": "https://fortune.com/2026/11/08/social-security-22-percent-benefit-cut-2032/"
+     },
+     {
+      "ricerca": "napoli - lazio",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Gattuso: \"Di Allegri non mi fido: è uno sgamato, nei momenti difficili non muore di stress\"",
+      "url": "https://www.gazzetta.it/Calcio/Serie-A/Lazio/07-11-2026/gattuso-napoli-lazio-allegri.shtml"
+     },
+     {
+      "ricerca": "heerenveen vs feyenoord",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Preview: Heerenveen vs Feyenoord - prediction, team news, lineups",
+      "url": "https://www.sportsmole.co.uk/football/heerenveen/preview/heerenveen-vs-feyenoord-prediction-team-news-lineups_608578.html"
+     },
+     {
+      "ricerca": "copenhagen fc",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Copenhagen vs Iberia 1999: UEFA Conference League stats & head-to-head",
+      "url": "https://www.bbc.co.uk/sport/football/live/cmly08qjl7nzt"
+     },
+     {
+      "ricerca": "napoli",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Napoli-Lazio, le formazioni ufficiali: Allegri lancia Vergara dal 1'. Gattuso con Pinamonti",
+      "url": "https://www.gazzetta.it/calcio/fantanews/08-11-2026/napoli-lazio-le-formazioni-ufficiali-tutti-i-titolari.shtml"
+     },
+     {
+      "ricerca": "globo rural",
+      "paese": "BR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Globo presta homenagem a jornalista que se tornou símbolo do Globo Rural",
+      "url": "https://noticiasdatv.uol.com.br/noticia/colunistas/globo-presta-homenagem-a-jornalista-que-se-tornou-simbolo-do-globo-rural-159079"
+     },
+     {
+      "ricerca": "more",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "House Election Results: Live Map of the 2026 Election",
+      "url": "https://www.wsj.com/election/2026/general/house"
+     },
+     {
+      "ricerca": "rafael jodar",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Gesta histórica de Rafa Jódar: desde Orantes a Alcaraz, pasando por Corretja o Nadal",
+      "url": "https://www.mundodeportivo.com/tenis/20261107/1004248091/gesta-historica-rafa-jodar-orantes-alcaraz-pasando-corretja-nadal.html"
+     },
+     {
+      "ricerca": "sebi",
+      "paese": "IN",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "SEBI's new settlement regulations to come into effect from November 7, online application facility introduce..",
+      "url": "https://cfo.economictimes.indiatimes.com/news/governance-risk-compliance/sebis-new-settlement-regulations-to-come-into-effect-from-november-7-online-application-facility-introduced/135624526"
+     }
+    ]
+   }
+  }
+ }
+}

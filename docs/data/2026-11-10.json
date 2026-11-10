@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-10",
+ "generato": "2026-11-10T13:20:13.874628+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "sacerdote",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Serrano Pentinat llevaba solo 21 días como copríncipe cuando se habría producido la presunta violación",
+      "url": "https://laveulliure.ad/es/articulo/serrano-pentinat-21-dias-coprincipe-presunta-violacion-sacerdote-urgell"
+     },
+     {
+      "ricerca": "mattia bellucci",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Orleans: subito fuori Pellegrino",
+      "url": "https://www.supertennis.tv/News/Challenger/Orleans-con-Bellucci-Pellegrino-e-Nardi"
+     },
+     {
+      "ricerca": "kit di sopravvivenza",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Cyber attacchi a banche, ospedali e reti elettriche: i piani degli Stati per resistere alle prime 72 ore",
+      "url": "https://www.corriere.it/tecnologia/cards/cyber-attacchi-a-banche-ospedali-e-reti-elettriche-i-piani-degli-stati-per-resistere-alle-prime-72-ore/nove-pasti_principale.shtml"
+     },
+     {
+      "ricerca": "greta speltoni",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "La mamma la trova a letto senza vita, Greta muore a 22 anni: esami per chiarire le cause",
+      "url": "https://www.messaggeroveneto.it/cronaca/porcia-greta-speltoni-morta-22-anni-ipotesi-overdose-xikcs2b5"
+     },
+     {
+      "ricerca": "rimini",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Piano di salvaguardia della balneazione, inizia a scavare la “talpa” della Dorsale Ausa",
+      "url": "https://www.riminitoday.it/cronaca/piano-di-salvaguardia-della-balneazione-inizia-a-scavare-la-talpa-della-dorsale-ausa.html"
+     },
+     {
+      "ricerca": "casal bruciato",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Scoppia la rissa in appartamento, poi la caccia all'uomo in piazza a colpi di mannaia e forbici",
+      "url": "https://www.romatoday.it/zone/tiburtino/casal-bruciato/cosa-e-successo-piazza-crivelli.html"
+     },
+     {
+      "ricerca": "valanga",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Travolto da una valanga, sopravvive 36 ore in un crepaccio con entrambe le gambe fratturate",
+      "url": "https://www.montagna.tv/285597/travolto-da-una-valanga-sopravvive-36-ore-in-un-crepaccio-con-entrambe-le-gambe-fratturate/"
+     },
+     {
+      "ricerca": "zaniolo",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Italia, Zaniolo lascia Coverciano: out dalla Nations League per motivi personali",
+      "url": "https://www.gazzetta.it/Calcio/Nazionale/10-11-2026/italia-zaniolo-out-per-problemi-personali.shtml"
+     },
+     {
+      "ricerca": "l'arena",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Spade al cielo davanti alla chiesa di Zevio, l'ultimo saluto al «cavaliere» Marco",
+      "url": "https://www.larena.it/territorio-veronese/est/spade-al-cielo-davanti-alla-chiesa-di-zevio-l-ultimo-saluto-al-cavaliere-marco-bonadiman-1.13179878"
+     },
+     {
+      "ricerca": "beinasco",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Incendio a Fornaci di Beinasco: a fuoco una casa, cinque intossicati in ospedale",
+      "url": "https://www.torinotoday.it/cronaca/incendio-fornaci-beinasco-9-novembre-2026.html"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "david walliams",
+      "paese": "GB",
+      "volume": 100000,
+      "volume_testo": "100000+",
+      "notizia": "David Walliams named as celebrity who tried to block publication of sexual misconduct allegations",
+      "url": "https://www.bbc.co.uk/news/live/c6m2d0e91e18t"
+     },
+     {
+      "ricerca": "phones banned in schools",
+      "paese": "GB",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo"
+     },
+     {
+      "ricerca": "dépistage",
+      "paese": "FR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "\"Le patient consulte quand il a des symptômes, c'est trop tard\" : la Bretagne rejoint un programme de dépistage du cancer du poumon",
+      "url": "https://france3-regions.franceinfo.fr/bretagne/le-patient-consulte-quand-il-a-des-symptomes-c-est-trop-tard-la-bretagne-rejoint-un-programme-de-depistage-du-cancer-du-poumon-3446652.html"
+     },
+     {
+      "ricerca": "nintendo",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Coming soon: Gift digital games to family group members",
+      "url": "https://www.nintendo.com/us/whatsnew/coming-soon-gift-digital-games-to-family-group-members/"
+     },
+     {
+      "ricerca": "personalausweis",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "3.000 Euro Bußgeld: Wann ein abgelaufener Ausweis richtig teuer wird",
+      "url": "https://www.t-online.de/leben/familie/freizeit/id_89562670/bis-zu-3000-euro-bussgeld-wann-ein-personalausweis-teuer-werden-kann.html"
+     },
+     {
+      "ricerca": "grúa",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "China genera una revolución con la grúa que puede con todo: capaz de levantar 14.000 toneladas",
+      "url": "https://as.com/actualidad/sociedad/china-genera-una-revolucion-con-la-grua-que-puede-con-todo-capaz-de-levantar-14000-toneladas-f202611-n/"
+     },
+     {
+      "ricerca": "piedralaves",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Evacúan un municipio de Ávila por el posible rebosamiento de una presa",
+      "url": "https://www.lavanguardia.com/vida/20261110/11680709/evacuan-municipio-avila-posible-rebosamiento-presa.html"
+     },
+     {
+      "ricerca": "guardian uk",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Thick fog disrupts travel with further weather warning issued",
+      "url": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o"
+     },
+     {
+      "ricerca": "fda weight loss drugs",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html"
+     },
+     {
+      "ricerca": "förderung e auto",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html"
+     },
+     {
+      "ricerca": "chômage",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "\"Le marché du travail tient bien\", note Jean-Pierre Farandou qui parle d'une baisse \"satisfaisante\" du chômage",
+      "url": "https://www.franceinfo.fr/economie/emploi/chomage/chomage-le-marche-du-travail-tient-bien-note-jean-pierre-farandou-qui-parle-d-une-baisse-satisfaisante_8275784.html"
+     },
+     {
+      "ricerca": "diario sur",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Despliegue policial y cortes en el centro de Málaga por una maleta sospechosa",
+      "url": "https://www.diariosur.es/sucesos/despliegue-policial-cortes-centro-malaga-maleta-sospechosa-20261110125925-nt.html"
+     },
+     {
+      "ricerca": "pago",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "El Bizum europeo arranca con sede en Madrid, presidente español y un ex de Amazon de CEO",
+      "url": "https://www.lavanguardia.com/dinero/20261110/11680818/bizum-europeo-arranca-sede-madrid-presidente-espanol-ex-amazon-ceo.html"
+     },
+     {
+      "ricerca": "skynews",
+      "paese": "GB",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Average UK salary breaks through notable barrier | Money blog",
+      "url": "https://news.sky.com/story/budget-money-pension-tax-allowance-personal-finance-announcements-what-they-mean-for-you-consumer-13040934"
+     },
+     {
+      "ricerca": "seifenoper",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "AWZ Spoiler Folge 5077 am 10.11.26 bei RTL+: Charlie will aufhören - doch dann klingelt ihr Handy",
+      "url": "https://www.swp.de/unterhaltung/tv/alles-was-zaehlt-seifenoper-awz-spoiler-folge-5077-am-101126-bei-rtl-charlie-will-aufhoeren-doch-dann-klingelt-ihr-handy-79684135.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "न्यू झीलंड राष्ट्रीय क्रिकेट संघ",
+      "paese": "IN",
+      "volume": 50000,
+      "volume_testo": "50000+",
+      "notizia": "IND vs NZ 3rd ODI: तीसरा वनडे मैच बारिश की वजह से हुआ रद्द, टॉस हुआ, लेकिन नहीं फेंकी जा सकी एक भी गेंद",
+      "url": "https://www.indiatv.in/sports/cricket/india-vs-new-zealand-live-score-3rd-odi-seddon-park-hamilton-live-updates-ind-vs-nz-match-hindi-commentary-2026-11-10-1253640"
+     },
+     {
+      "ricerca": "david walliams",
+      "paese": "US",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+      "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women"
+     },
+     {
+      "ricerca": "vazamento de informações",
+      "paese": "BR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "PF prende ex-servidor do STJ suspeito de vazar informações para Willer Tomaz",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/11/10/pf-prende-servidor-do-stj-suspeito-de-vazar-informacoes-para-willer-tomaz.ghtml"
+     },
+     {
+      "ricerca": "anthropic ipo",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+     },
+     {
+      "ricerca": "among us",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Man accused of transporting missing Utah teen across state lines appears in Boise Federal",
+      "url": "https://idahonews.com/news/local/man-accused-of-transporting-missing-utah-teen-across-state-lines-appears-in-boise-federal"
+     },
+     {
+      "ricerca": "टीम",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "टीम इंडिया से 3 खिलाड़ी बाहर, चौथे NZ वनडे के लिए तिलक-कुशाग्र की एंट्री बदल गया स्क्वॉड",
+      "url": "https://www.abplive.com/sports/cricket/3-players-dropped-from-team-india-tilak-varma-ishan-kishan-enter-for-4th-fourth-nz-odi-squad-changes-3213272"
+     },
+     {
+      "ricerca": "cpi report",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+     },
+     {
+      "ricerca": "red dead redemption 2",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "GTA 6 | GTA Online continuará recebendo suporte da Rockstar, diz CEO da Take-Two",
+      "url": "https://www.omelete.com.br/games/gta-6-gta-online-continuara-recebendo-suporte-da-rockstar-ceo-da-take-two"
+     },
+     {
+      "ricerca": "income",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "The 2027 Tax Brackets Are Here. See Where You Land.",
+      "url": "https://www.wsj.com/personal-finance/taxes/the-2027-tax-brackets-are-here-see-where-you-land-c20ada58"
+     },
+     {
+      "ricerca": "vitamin k deficiency bleeding",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find",
+      "url": "https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html"
+     },
+     {
+      "ricerca": "john malkovich",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "‘Wild Horse Nine’ Review: A C.I.A. Holiday",
+      "url": "https://www.nytimes.com/2026/11/05/movies/wild-horse-nine-review.html"
+     },
+     {
+      "ricerca": "cesar ramos",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Kevin Álvarez Blasts Referees After America and Pumas Draw in the Capital Derby",
+      "url": "https://www.soyfutbol.com/en/leagues/kevin-alvarez-blasts-referees-after-america-and-pumas-draw-in-the-capital-derby-20261108-0043.html"
+     },
+     {
+      "ricerca": "abastecimento de água fortaleza",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Mais de 90 bairros de Fortaleza e Caucaia terão abastecimento de água suspenso na quarta-feira; veja quais são",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/09/mais-de-90-bairros-de-fortaleza-e-caucaia-terao-abastecimento-de-agua-suspenso-na-quarta-feira-veja-quais-sao.ghtml"
+     },
+     {
+      "ricerca": "barco",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "El Gobierno aborda con el presidente canario la presión migratoria de El Hierro",
+      "url": "https://efe.com/espana/2026-11-10/comision-interministerial-inmigracion-canarias/"
+     },
+     {
+      "ricerca": "mega sena 3084",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Mega-Sena pode pagar R$ 3,5 milhões nesta terça-feira; g1 transmite ao vivo",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/10/mega-sena-pode-pagar-r-35-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml"
+     }
+    ]
+   }
+  }
+ }
+}

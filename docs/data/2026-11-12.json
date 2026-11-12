@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-12",
+ "generato": "2026-11-12T13:36:25.025454+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "atp finals",
+      "paese": "IT",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Atp Finals, il sorteggio: Cobolli all'esordio a Torino nello stesso girone di Alcaraz e Medvedev",
+      "url": "https://www.gazzetta.it/Tennis/ATP/12-11-2026/atp-finals-il-sorteggio-i-gironi-e-chi-sfidera-cobolli.shtml"
+     },
+     {
+      "ricerca": "stelle michelin 2027",
+      "paese": "IT",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Guida MICHELIN Italia 2027: tutte le nuove stelle in live streaming",
+      "url": "https://guide.michelin.com/it/it/notizia/michelin-guide-ceremony/guida-michelin-italia-2027-tutte-le-nuove-stelle-in-live-streaming"
+     },
+     {
+      "ricerca": "carlo messina",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Intesa Sanpaolo, Messina attacca: Sui titoli di Stato perdite significative, basta atteggiamenti da bullo contro le banche",
+      "url": "https://www.milanofinanza.it/news/intesa-sanpaolo-messina-attacca-sui-titoli-di-stato-perdite-significative-basta-atteggiamenti-da-bullo-202611121252042181"
+     },
+     {
+      "ricerca": "auditel",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Ascolti TV ieri mercoledì 11 novembre, Tale e Quale Show vince contro Viola come il Mare: i dati Auditel",
+      "url": "https://www.virgilio.it/notizie/ascolti-tv-ieri-mercoledi-11-novembre-tale-e-quale-show-vince-contro-viola-come-il-mare-i-dati-auditel-1795852"
+     },
+     {
+      "ricerca": "dividendo",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Record figures once again. Net profit of 1.8 billion for the first nine months (+4 per cent). The dividend rises by 7.5 per cent",
+      "url": "https://en.ilsole24ore.com/art/record-revenue-of-102-billion-up-5-per-cent-in-the-first-nine-months-AJppniDC"
+     },
+     {
+      "ricerca": "black out",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "What Is IPAWS? America’s Emergency Alert System To Be Tested Next Week",
+      "url": "https://www.newsweek.com/what-is-ipaws-america-emergency-alert-system-tested-next-week-12693432"
+     },
+     {
+      "ricerca": "niko pandetta",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Droga e cellulari in carcere, 36 arresti a Messina: coinvolto anche il rapper Niko Pandetta",
+      "url": "https://www.rainews.it/articoli/2026/11/droga-e-cellulari-in-carcere-36-arresti-a-messina-coinvolto-anche-il-rapper-niko-pandetta-4cd6e308-ec13-4659-94c1-01edb1a5c795.html"
+     },
+     {
+      "ricerca": "sciopero treni 13 novembre 2026",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Scioperi, il calendario di novembre: il 13 agitazioni a Milano e Venezia, il 20 mobilitazione nazionale",
+      "url": "https://www.ilsole24ore.com/art/scioperi-calendario-novembre-20-agitazione-nazionale-AJ6emg1B"
+     },
+     {
+      "ricerca": "giancarlo esposito",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Giancarlo Esposito, 68, Reflects on Bankruptcy",
+      "url": "https://www.aarp.org/entertainment/celebrities/giancarlo-esposito-bankruptcy/"
+     },
+     {
+      "ricerca": "andy burnham",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "tours",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Trois morts et une blessée dans un accident de la route à Tours, quartier des Rives du Cher",
+      "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/trois-morts-dans-un-accident-de-la-route-a-tours-quartier-des-rives-du-cher-1112155"
+     },
+     {
+      "ricerca": "mandelieu-la-napoule",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Prise au piège par la montée des eaux dans sa voiture, une femme de 20 ans s’en sort indemne à Mandelieu",
+      "url": "https://www.nicematin.com/faits-divers/prise-au-piege-par-la-montee-des-eaux-dans-sa-voiture-une-femme-de-20-ans-s-en-sort-indemne-a-mandelieu-10758578"
+     },
+     {
+      "ricerca": "a43",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Unfall auf der A43 bei Witten: Fünf Verletzte nach Zusammenstoß von fünf Autos",
+      "url": "https://lokalklick.eu/2026/11/12/unfall-a43-witten-fuenf-verletzte-ruhrbruecke/"
+     },
+     {
+      "ricerca": "gta",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+     },
+     {
+      "ricerca": "pierre sage",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Crystal Palace sack boss Sage after 16 games",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do"
+     },
+     {
+      "ricerca": "wael mohya",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Barring late injury or illness, Wael Mohya won’t dress for Germany vs. Serbia",
+      "url": "https://sports.yahoo.com/articles/barring-injury-illness-wael-mohya-123000627.html"
+     },
+     {
+      "ricerca": "isabel peralta",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Núcleo Nacional expulsó a una mujer “judía” y a otra de ascendencia gitana para implantar la “raza pura” en sus filas",
+      "url": "https://elpais.com/espana/2026-11-12/nucleo-nacional-expulso-a-una-mujer-judia-y-a-otra-de-ascendencia-gitana-para-implantar-la-raza-pura-en-sus-filas.html"
+     },
+     {
+      "ricerca": "westerstede",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Westerstede: Schwerer Unfall mit Zivilauto der Polizei",
+      "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/westerstede-zivilwagen-der-polizei-hat-schweren-unfall,westerstede-156.html"
+     },
+     {
+      "ricerca": "nebius aktie",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Nebius-Aktie springt vor den Zahlen an: CoreWeave legt die Latte hoch",
+      "url": "https://www.finanzen.net/plus/aktien-unternehmen/zahlen-am-donnerstag-nebius-aktie-springt-vor-den-zahlen-an-coreweave-legt-die-latte-hoch-00-16056136/"
+     },
+     {
+      "ricerca": "keira knightley",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Daniel Radcliffe And Keira Knightley Have The Same Take On Fans Quoting Their Movies At Them",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/daniel-radcliffe-keira-knightley-same-010100306.html"
+     },
+     {
+      "ricerca": "depardieu",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Gérard Depardieu accusé d’agression sexuelle : la preuve par l’image",
+      "url": "https://www.mediapart.fr/journal/france/121126/gerard-depardieu-accuse-d-agression-sexuelle-la-preuve-par-l-image"
+     },
+     {
+      "ricerca": "shai gilgeous-alexander",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Highlights Or Critics? Shai Gilgeous-Alexander Picked Something Else",
+      "url": "https://fastbreakjournal.com/shai-gilgeous-alexander-no-regrets-what-gets-him-going/"
+     },
+     {
+      "ricerca": "abri de jardin",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Impôts : après les piscines, le fisc s'attaque aux abris de jardin non déclarés grâce à l'intelligence artificielle",
+      "url": "https://www.boursorama.com/impots/actualites/impots-apres-les-piscines-le-fisc-s-attaque-aux-abris-de-jardin-non-declares-grace-a-l-intelligence-artificielle-08656fd7b9ad5b7dc9461ccc5465f878"
+     },
+     {
+      "ricerca": "colissimo",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "La Poste investit 2 M€ dans sa nouvelle agence colis lyonnaise",
+      "url": "https://www.lyon-entreprises.com/actualites/article/la-poste-investit-2-me-dans-sa-nouvelle-agence-colis-lyonnaise"
+     },
+     {
+      "ricerca": "frente polisario",
+      "paese": "ES",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Marruecos proclama en la ONU que el Sáhara Occidental seguirá bajo su soberanía “hasta el fin de los tiempos”",
+      "url": "https://elpais.com/internacional/2026-11-10/marruecos-proclama-en-la-onu-que-el-sahara-occidental-seguira-bajo-su-soberania-hasta-el-fin-de-los-tiempos.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "bbas3",
+      "paese": "BR",
+      "volume": 20000,
+      "volume_testo": "20000+",
+      "notizia": "CEO do BB diz que parte do agro contava com 'solução milagrosa' e optou por 'não pagar nem renegociar débitos'",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/11/12/ceo-do-bb-diz-que-parte-do-agro-contava-com-solucao-milagrosa-e-optou-por-nao-pagar-nem-renegociar-debitos.ghtml"
+     },
+     {
+      "ricerca": "mark mcguinn",
+      "paese": "US",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Country music star known for 2000s hit dies at 58: ‘He was an incredible talent’",
+      "url": "https://www.pennlive.com/entertainment/2026/11/country-music-star-known-for-2000s-hit-dies-at-58-he-was-an-incredible-talent.html"
+     },
+     {
+      "ricerca": "gov.br",
+      "paese": "BR",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "MEC estabelece diretrizes para uso responsável da IA na educação — Ministério da Educação",
+      "url": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/novembro/mec-estabelece-diretrizes-para-uso-responsavel-da-ia-na-educacao"
+     },
+     {
+      "ricerca": "gov",
+      "paese": "BR",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Receita libera APIs para consultar débitos e créditos da CBS",
+      "url": "https://www.contabeis.com.br/noticias/80723/receita-libera-apis-para-consultar-debitos-e-creditos-da-cbs/"
+     },
+     {
+      "ricerca": "social security trust fund depletion 2032",
+      "paese": "US",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
+      "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html"
+     },
+     {
+      "ricerca": "resident evil code veronica remake",
+      "paese": "US",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Resident Evil Veronica Reportedly Delayed Due to Requiem Feedback",
+      "url": "https://www.relyonhorror.com/latest-news/resident-evil-news/resident-evil-veronica-delayed/"
+     },
+     {
+      "ricerca": "கடல்",
+      "paese": "IN",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "#BREAKING || TN Rain | Weather Update | இன்னும் ஒருநாளில்.. வங்க கடலில் உருவாகிறது புது சிஸ்டம்",
+      "url": "https://www.thanthitv.com/%E0%AE%9A%E0%AE%AE%E0%AF%80%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/breaking-tn-rain-weather-update-a-new-weather-system-is-set-to-form-over-the-bay-of-bengal-in-another-day"
+     },
+     {
+      "ricerca": "result",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Kerala lottery Dhanalekshmi DL-77 result today 11/11/2026: ₹1 cr first prize for DJ 943076 | Check complete list",
+      "url": "https://www.onmanorama.com/news/kerala/2026/11/11/dhanalekshmi-dl-77-lottery-results-kerala-1-crore-first-prize-list-winners-live.html"
+     },
+     {
+      "ricerca": "gma deals and steals today",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "'GMA' Deals & Steals on Oprah’s Favorite Things 2026",
+      "url": "https://abcnews.com/GMA/Shop/gma-deals-steals-oprahs-favorite-things-2026/story?id=138015747"
+     },
+     {
+      "ricerca": "polar vortex el niño winter weather",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "This winter, it’s polar vortex versus El Niño. Round one starts now",
+      "url": "https://www.cnn.com/2026/11/12/weather/polar-vortex-stratospheric-warming-cold-el-nino"
+     },
+     {
+      "ricerca": "gov entrar",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Ministério dos Transportes inicia notificações sobre débitos de pedágio eletrônico; prazo para regularização termina dia 16",
+      "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias-antt/ministerio-dos-transportes-inicia-notificacoes-sobre-debitos-de-pedagio-eletronico-prazo-para-regularizacao-termina-dia-16"
+     },
+     {
+      "ricerca": "daniel cady",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Polícia de SP prende suspeito de participar em roubo de celular de Daniel Cady, ex-marido de Ivete Sangalo, e fazer R$ 200 mil em transferências bancárias",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/12/policia-de-sp-prende-suspeito-de-participar-em-roubo-de-celular-de-daniel-cady-ex-marido-de-ivete-sangalo-e-fazer-r-200-mil-em-transferencias-bancarias.ghtml"
+     },
+     {
+      "ricerca": "sougov",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "SouGov: nomeados para cargos comissionados no governo federal já podem tomar posse pela internet; entenda",
+      "url": "https://extra.globo.com/economia/servidor-publico/noticia/2026/11/sougov-nomeados-para-cargos-comissionados-no-governo-federal-ja-podem-tomar-posse-pela-internet-entenda.ghtml"
+     },
+     {
+      "ricerca": "stephen curry lesao",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Warriors admitem tensão com lesão de Stephen Curry: 'A preocupação é alta'",
+      "url": "https://www.espn.com.br/nba/artigo/_/id/17506817/nba-warriors-admitem-tensao-lesao-stephen-curry-preocupacao-alta"
+     },
+     {
+      "ricerca": "dc news",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html"
+     }
+    ]
+   }
+  }
+ }
+}

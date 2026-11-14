@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-14",
+ "generato": "2026-11-14T11:58:54.787106+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "blocco voli aerei stati uniti",
+      "paese": "IT",
+      "volume": 20000,
+      "volume_testo": "20000+",
+      "notizia": "Caos voli USA: \"Servono 50 miliardi o accadrà ancora\"",
+      "url": "https://www.ilfattoquotidiano.it/2026/11/14/blocco-voli-usa-faa-emergenza-notizie/8571722/"
+     },
+     {
+      "ricerca": "sconti black friday",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Black Friday, il prezzo scontato sembra conveniente ma non sempre racconta il risparmio reale",
+      "url": "https://www.agendaonline.it/black-friday-il-prezzo-scontato-sembra-conveniente-ma-non-sempre-racconta-il-risparmio-reale/"
+     },
+     {
+      "ricerca": "collisione frontale",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Cremona, schianto frontale tra due auto sulla Statale 10 tra Bozzolo e Piadena, muore una donna di 75 anni",
+      "url": "https://milano.corriere.it/notizie/cronaca/26_novembre_13/cremona-schianto-frontale-tra-due-auto-sulla-statale-10-tra-bozzolo-e-piadena-muore-una-donna-di-75-anni-5e7017c8-ab31-43e0-aa00-949e34fbaxlk.shtml"
+     },
+     {
+      "ricerca": "traghetto di leonardo",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Non aveva fatto rientro a casa, il corpo senza vita di un anziano rinvenuto nell’Adda",
+      "url": "https://www.bergamonews.it/2026/11/14/non-aveva-fatto-rientro-a-casa-il-corpo-senza-vita-di-un-anziano-rinvenuto-nelladda/937105/"
+     },
+     {
+      "ricerca": "ravenna calcio",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Ronaldinho: \"Gioco nel Ravenna, ecco perché. Un gol al Forlì come quello all'Inter. Endrick è da milan\"",
+      "url": "https://www.gazzetta.it/Calcio/altri-campionati/14-11-2026/ronaldinho-intervista-giocare-mi-rende-felice-ho-un-sogno-per-me-e-ravenna.shtml"
+     },
+     {
+      "ricerca": "piazza degli affari",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Piazza Affari, le 15 azioni più sottovalutate: possono salire di oltre il 50%",
+      "url": "https://www.milanofinanza.it/news/piazza-affari-le-15-azioni-piu-sottovalutate-possono-salire-di-oltre-il-50-202611131824437779"
+     },
+     {
+      "ricerca": "vinícius júnior",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Brasil x Japão: onde assistir ao vivo e escalações do amistoso da Seleção",
+      "url": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/17508125/brasil-x-japao-onde-assistir-ao-vivo-escalacoes-amistoso-selecao-brasileira"
+     },
+     {
+      "ricerca": "mossad",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra",
+      "url": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/"
+     },
+     {
+      "ricerca": "kristina mladenovic",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Errani Paolini-Perez Schuurs, highlights Wta Finals: terza vittoria per le azzurre",
+      "url": "https://video.gazzetta.it/tennis/wta/highlights/video-errani-paolini-perez-schuurs-highlights-wta-finals-terza-vittoria-per-le-azzurre/ffef895f-63c8-433d-8ef1-e11e9309cxlk"
+     },
+     {
+      "ricerca": "brasile calcio",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Ancelotti: \"Per noi fase di transizione, ma stiamo costruendo un gruppo forte\". E Raphinha...",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/13-152561780/ancelotti_per_noi_fase_di_transizione_ma_stiamo_costruendo_un_gruppo_forte_e_raphinha_"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "chine",
+      "paese": "FR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
+      "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html"
+     },
+     {
+      "ricerca": "volodymyr zelenskyy",
+      "paese": "GB",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
+      "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy"
+     },
+     {
+      "ricerca": "ski alpin weltcup levi",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Slalom ohne Shiffrin: Aicher-Show in Levi!",
+      "url": "https://sportbild.bild.de/sportmix/wintersport/slalom-ohne-shiffrin-aicher-show-in-levi-6af82fd9389d31d8c8a80108"
+     },
+     {
+      "ricerca": "nintendo switch 2 black friday 2026",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Zelda-Switch-2: Nintendo-Fans müssen bei der Konsole ganz genau hinschauen",
+      "url": "https://www.giga.de/games/zelda-switch-2-nintendo-fans-muessen-bei-der-konsole-ganz-genau-hinschauen--01M6DTK4SJ1NJFBSTB0909NCK1"
+     },
+     {
+      "ricerca": "andrea kiewel",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Andrea Kiewel hat 15 Kilo abgenommen: Jetzt meldet sich ihr Partner zu Wort",
+      "url": "https://www.joyn.de/bts/serien/catch-us-die-jagd-durch-europa/andrea-kiewel-hat15-kilo-abgenommen-jetzt-meldet-sich-ihr-partner-zu-wort-216731"
+     },
+     {
+      "ricerca": "bergrettung",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Bergretter warnt leichtsinnige Touristen: „Wird irgendwann einmal so sein, dass auch wir sagen: Wir gehen da nicht rauf“",
+      "url": "https://www.focus.de/panorama/welt/bergretter-warnt-leichtsinnige-touristen-wird-irgendwann-einmal-so-sein-dass-auch-wir-sagen-wir-gehen-da-nicht-rauf_67dacd6f-acaa-46c2-ae29-efdb8b68bfc8.html"
+     },
+     {
+      "ricerca": "italie – argentine",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Direct. Italie - Argentine : qui redressera la tête après la déception du week-end dernier ?",
+      "url": "https://www.rugbyrama.fr/2026/11/14/direct-italie-argentine-qui-redressera-la-tete-apres-la-deception-du-week-end-dernier-suivez-le-match-du-championnat-des-nations-13651470.php"
+     },
+     {
+      "ricerca": "dp world tour leaderboard",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "DP World Tour Championship - third round LIVE! Latest scores, highlights as Rory McIlroy and Tyrrell Hatton battle for lead",
+      "url": "https://www.skysports.com/golf/live-blog/13611918/dp-world-tour-championship-third-round-live-latest-scores-highlights-as-rory-mcilroy-and-tyrrell-hatton-battle-for-lead"
+     },
+     {
+      "ricerca": "vignette automobile 2027",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Ce qui va changer pour les automobilistes avec la vignette en Wallonie",
+      "url": "https://www.20minutes.fr/societe/4262336-20261112-vignette-obligatoire-va-changer-automobilistes-francais-roulent-belgique"
+     },
+     {
+      "ricerca": "starship spacex",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "First catch aborted in SpaceX Starship rocket double-catch test",
+      "url": "https://www.bbc.com/news/articles/ckregdgnl0xpo"
+     },
+     {
+      "ricerca": "japan vs brazil",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Japan vs Brazil: Friendlies stats & head-to-head",
+      "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t"
+     },
+     {
+      "ricerca": "spacex starship",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "First catch aborted in SpaceX Starship rocket double-catch test",
+      "url": "https://www.bbc.com/news/articles/ckregdgnl0xpo"
+     },
+     {
+      "ricerca": "japão x brasil",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Brasil x Japão: onde assistir ao vivo e escalações do amistoso da Seleção",
+      "url": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/17508125/brasil-x-japao-onde-assistir-ao-vivo-escalacoes-amistoso-selecao-brasileira"
+     },
+     {
+      "ricerca": "fernsehen",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Comeback in der ARD: Carmen Nebel kehrt ins Fernsehen zurück",
+      "url": "https://www.t-online.de/unterhaltung/tv/id_101528478/carmen-nebel-kehrt-nach-karriereende-ins-fernsehen-zurueck.html"
+     },
+     {
+      "ricerca": "snooker",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "German Masters qualifiers: 2027 draw, preview, schedule, how to watch",
+      "url": "https://snookerhq.com/2026/11/14/german-masters-qualifiers-2027-draw-schedule-how-to-watch/"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "अन्वय द्रविड़",
+      "paese": "IN",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "IND vs PAK U19 Asia Cup Final Live: भारतीय टीम की बल्लेबाजी जारी, पाकिस्तान ने दिया है 338 रनों का टारगेट",
+      "url": "https://www.aajtak.in/sports/cricket/story/india-vs-pakistan-live-score-u19-asia-cup-final-2026-ind-vs-pak-updates-aaryavir-sehwag-tspoa-tspok-dskc-2695956-2026-11-14"
+     },
+     {
+      "ricerca": "ranbir kapoor ramayana movie",
+      "paese": "IN",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Ramayana Box Office Day 10 Advance Booking: Already Enters Top 10 2nd Saturdays – Needs Only This Much To Dethrone Dhurandhar 2!",
+      "url": "https://www.imdb.com/news/ni66110862/?ref_=ttnw_art_perm"
+     },
+     {
+      "ricerca": "mega millions",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "$100K Mega Millions ticket sold in Northeast Ohio",
+      "url": "https://fox8.com/news/100k-mega-millions-ticket-sold-in-northeast-ohio/"
+     },
+     {
+      "ricerca": "mired in",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+     },
+     {
+      "ricerca": "mega sena 3086",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Mega-Sena: quanto R$ 27 milhões rendem todo mês na poupança e no Tesouro",
+      "url": "https://economia.uol.com.br/mais/ultimas-noticias/2026/11/14/mega-sena-quanto-r-27-milhoes-rendem-todo-mes-na-poupanca-e-no-tesouro.htm"
+     },
+     {
+      "ricerca": "ge",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Entenda perfil de contratações buscadas pelo Cruzeiro para 2027",
+      "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/11/14/entenda-perfil-de-contratacoes-buscadas-pelo-cruzeiro-para-2027.ghtml"
+     },
+     {
+      "ricerca": "endrick",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Transferência de Endrick pode 'custar' R$ 70 milhões ao Palmeiras; entenda",
+      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/transferencia-de-endrick-pode-custar-r-70-milhoes-ao-palmeiras-entenda.ghtm"
+     },
+     {
+      "ricerca": "andre luiz",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Quem é André, volante titular da Seleção Brasileira contra o Japão",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/quem-e-andre-volante-titular-da-selecao-brasileira-contra-o-japao/"
+     },
+     {
+      "ricerca": "brasil c",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Final de semana terá temporais em grande parte do país; veja a previsão",
+      "url": "https://globorural.globo.com/previsao-do-tempo/noticia/2026/11/chuva-ganha-forca-no-sul-e-avanca-pelo-centro-sul-durante-o-fim-de-semana1.ghtml"
+     },
+     {
+      "ricerca": "वीवो",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "भारत में आ रहा वीवो का सबसे पावरफुल फोन Vivo X500, लॉन्च डेट हुई कंफर्म",
+      "url": "https://www.aajtak.in/technology/tech-news/story/vivo-x500-launch-date-in-india-feature-ttecr-dskc-2695504-2026-11-14"
+     },
+     {
+      "ricerca": "marc cucurella",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Real Madrid quartet stand out as Jose Mourinho’s most consistent players this season",
+      "url": "https://sports.yahoo.com/articles/real-madrid-quartet-stand-jose-103500273.html"
+     },
+     {
+      "ricerca": "prince harry, duke of sussex",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Duchess Meghan Looks Somber in Monochrome Black at the Launch of the Lost Screen Memorial in Brussels",
+      "url": "https://www.harpersbazaar.com/celebrity/latest/a74386832/meghan-markle-black-outfit-first-public-appearance-since-father-arrest-belgium-photos/"
+     },
+     {
+      "ricerca": "megan fox",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Megan Fox Admits Every Cosmetic Surgery She’s Had Because She ‘Can’t Win’",
+      "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/megan-fox-admits-every-cosmetic-103000915.html"
+     },
+     {
+      "ricerca": "vivienne jolie",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Angelina Jolie, Brad Pitt’s daughter Vivienne reveals hospitalization for eating disorder at LA art exhibit: ‘It wasn’t easy’",
+      "url": "https://pagesix.com/2026/11/13/celebrity-news/angelina-jolie-brad-pitts-daughter-vivienne-reveals-hospitalization-for-eating-disorder-at-la-art-exhibit/"
+     },
+     {
+      "ricerca": "progressive",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "A potential 2028 candidate takes himself out of the running, as others gear up",
+      "url": "https://www.washingtonpost.com/politics/2026/11/14/potential-2028-candidate-is-out-running-others-gear-up/"
+     }
+    ]
+   }
+  }
+ }
+}

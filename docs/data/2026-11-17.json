@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-17",
+ "generato": "2026-11-17T14:12:32.509587+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "sciopero generale",
+      "paese": "IT",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Sciopero generale 20 novembre, 24 ore di stop: chi si ferma",
+      "url": "https://tg24.sky.it/cronaca/2026/11/16/sciopero-generale-20-novembre-2026-cgil-chi-si-ferma"
+     },
+     {
+      "ricerca": "rafael jódar",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Arthur Fils-Rafa Jódar en directo, el partido de las ATP Finals en vivo",
+      "url": "https://elpais.com/deportes/tenis/2026-11-17/arthur-fils-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html"
+     },
+     {
+      "ricerca": "ristoratore",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Si cappotta con l'auto, 56enne muore nel Pistoiese",
+      "url": "https://www.ansa.it/toscana/notizie/2026/11/15/si-cappotta-con-lauto-56enne-muore-nel-pistoiese_2892a5a9-09da-4f77-89d3-cd9d0310c524.html"
+     },
+     {
+      "ricerca": "hilary duff",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "",
+      "url": ""
+     },
+     {
+      "ricerca": "ministero della giustizia",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Programma pilota per avvocati pubblici: 41 persone hanno ottenuto l'abilitazione all'esercizio della professione dal Ministero della Giustizia.",
+      "url": "https://www.vietnam.vn/it/thi-diem-luat-su-cong-41-nguoi-duoc-bo-tu-phap-cap-chung-chi-hanh-nghe"
+     },
+     {
+      "ricerca": "india vs pakistan",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "India vs Bhutan Ends In A Thrilling Win For The Blue Tigers In SAFF Semi-Finals",
+      "url": "https://www.sportscapemagazine.com/blog/india-vs-bhutan-saff-championship-semi-final-win"
+     },
+     {
+      "ricerca": "adriano galliani",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Elezioni Figc, Galliani rinuncia al ricorso contro Malagò. L'ex Coni: \"E ora cosa fate fino al 14 dicembre?\"",
+      "url": "https://www.ilfattoquotidiano.it/2026/11/16/elezioni-figc-galliani-rinuncia-ricorso-presidente/8573616/"
+     },
+     {
+      "ricerca": "deficit",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Le stime Ue sull’Italia: Pil all’1% e debito record. Dombrovskis: \"Fuori da procedura in primavera",
+      "url": "https://www.repubblica.it/economia/2026/11/17/news/pil_italia_stime_ue_crescita_deficit_debito-425729203/"
+     },
+     {
+      "ricerca": "fils",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "« Je me demande comment j’ai pu passer trois ans sans rien voir » : son compagnon soupçonné d’avoir abusé de son fils",
+      "url": "https://www.lenouveaudetective.com/enquetes/je-me-demande-comment-jai-pu-passer-trois-ans-sans-rien-voir-son-compagnon-soupconne-davoir-abuse-de-son-fils"
+     },
+     {
+      "ricerca": "titolo di stato",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Aste Titoli di Stato dicembre 2026: il calendario delle emissioni",
+      "url": "https://www.borse.it/articolo/ultime-notizie/aste-titoli-di-stato-dicembre-2026-il-calendario-delle-emissioni"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "reforme des retraites le pen",
+      "paese": "FR",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites, un système basé sur la progressivité et une part de capitalisation",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html"
+     },
+     {
+      "ricerca": "rafael jódar",
+      "paese": "ES",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Arthur Fils-Rafa Jódar en directo, el partido de las ATP Finals en vivo",
+      "url": "https://elpais.com/deportes/tenis/2026-11-17/arthur-fils-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html"
+     },
+     {
+      "ricerca": "niclas füllkrug",
+      "paese": "DE",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Klopp zeigt's den Experten: Niclas Füllkrug lernt bittere DFB-Wahrheit kennen",
+      "url": "https://www.n-tv.de/sport/fussball/Niclas-Fuellkrug-lernt-bittere-DFB-Wahrheit-kennen-id31542083.html"
+     },
+     {
+      "ricerca": "wacken neue bands",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Wacken Open Air: Limp Bizkit spielt 2027 zum ersten Mal auf dem Kult-Festival",
+      "url": "https://www.bild.de/unterhaltung/musik/wacken-open-air-limp-bizkit-spielt-2027-zum-ersten-mal-auf-dem-kult-festival-6afb06f1bfa018bfcc988d43"
+     },
+     {
+      "ricerca": "arthur fils",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "DIRECT. Fils - Jodar, ATP Finals, Masters (Turin), Groupe John McEnroe : 4-6 en direct",
+      "url": "https://www.lequipe.fr/Tennis/masters-turin/epreuve-simple-messieurs/annee-2026/match-direct/arthur-fils-rafael-jodar-live/717462"
+     },
+     {
+      "ricerca": "precio luz",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Precio de la luz por horas hoy, martes 17 de noviembre: las horas más baratas y más caras",
+      "url": "https://www.elconfidencial.com/economia/2026-11-17/precio-luz-martes-17-noviembre-horas-baratas-1qrt_4466392/"
+     },
+     {
+      "ricerca": "ticketmaster",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "How Ticketmaster Changed Concert Culture",
+      "url": "https://www.cornellsun.com/article/2026/11/how-ticketmaster-changed-concert-culture"
+     },
+     {
+      "ricerca": "ns&i",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Premium Bond holders forced to return prize winnings after NS&I blunder",
+      "url": "https://www.thetimes.com/money/saving-investing/article/premium-bond-prizes-mistake-2fccb8h5f"
+     },
+     {
+      "ricerca": "uk emergency alert today",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "‘This is only a test’: Tuesday’s emergency alert test comes at anxious moment in the US",
+      "url": "https://www.cnn.com/2026/11/16/media/eas-test-federal-emergency-alert-system-fema-media"
+     },
+     {
+      "ricerca": "tamara falcó",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Isabel Preysler y Tamara Falcó reaparecen juntas con chaquetas a juego en el homenaje a Julio Iglesias",
+      "url": "https://www.elle.com/es/star-style/el-estilo-de/a74451105/isabel-preysler-tamara-falco-reaparecen-homenaje-julio-iglesias/"
+     },
+     {
+      "ricerca": "audiencia provincial de madrid",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "La Audiencia de Madrid ordena reabrir la causa contra el director de la Policía por acoso al portavoz de Interior de Vox",
+      "url": "https://elpais.com/espana/2026-11-17/la-audiencia-de-madrid-ordena-reabrir-la-causa-contra-el-director-de-la-policia-por-acoso-al-portavoz-de-interior-de-vox.html"
+     },
+     {
+      "ricerca": "xrp ledger",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "XRP’s proposed upgrade could improve trading without boosting token demand",
+      "url": "https://cryptonews.net/news/altcoins/33761726/"
+     },
+     {
+      "ricerca": "markus krösche",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "100 Millionen für Markus Krösche",
+      "url": "https://www.fussballtransfers.com/a2872411931800767331-100-millionen-fuer-kroesche"
+     },
+     {
+      "ricerca": "rafael jódar",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Arthur Fils-Rafa Jódar en directo, el partido de las ATP Finals en vivo",
+      "url": "https://elpais.com/deportes/tenis/2026-11-17/arthur-fils-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html"
+     },
+     {
+      "ricerca": "movistar arena",
+      "paese": "ES",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "C. Tangana regresa al directo con Agorazein: cuatro noches de nostalgia, caos y rap en Madrid",
+      "url": "https://www.elmundo.es/cultura/musica/2026/11/16/6afa3ba821efa069768b4581.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "india vs pakistan",
+      "paese": "IN",
+      "volume": 20000,
+      "volume_testo": "20000+",
+      "notizia": "India vs Pakistan live: SAFF Championship final",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final"
+     },
+     {
+      "ricerca": "japão x paraguai",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Japão x Paraguai: onde assistir, escalações e arbitragem",
+      "url": "https://www.terra.com.br/esportes/futebol/internacional/japao-x-paraguai-onde-assistir-escalacoes-e-arbitragem,dc045e20f1d53bb443c5e98a66182d01ejj0kjig.html"
+     },
+     {
+      "ricerca": "can yaman",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Astro turco, Can Yaman causa alvoroço em aeroporto de São Paulo durante desembarque",
+      "url": "https://gshow.globo.com/cultura-pop/famosos/noticia/astro-turco-can-yaman-causa-alvoroco-em-aeroporto-de-sao-paulo-durante-desembarque.ghtml"
+     },
+     {
+      "ricerca": "rob lowe",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "What Is Rob Lowe Thinking?",
+      "url": "https://www.thefp.com/p/what-is-rob-lowe-thinking"
+     },
+     {
+      "ricerca": "alerta tempestade",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Paraná terá duas frentes frias na semana e 158 cidades sob alerta de tempestade; veja cidades afetadas e previsão",
+      "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/17/parana-tera-duas-frentes-frias-na-semana.ghtml"
+     },
+     {
+      "ricerca": "sthree sakthi kerala lottery results",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Kerala lottery Sthree Sakthi SS-546 result today 17/16/2026: ₹1 cr first prize for SA 286401 | Check complete list",
+      "url": "https://www.onmanorama.com/news/kerala/2026/11/17/sthree-sakthi-ss-546-lottery-results-kerala-1-crore-first-prize-list-winners-live.html"
+     },
+     {
+      "ricerca": "lsg released players 2027",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "IPL 2027 Auction: Who will LSG Retain or Release?",
+      "url": "http://www.cricbuzz.com/cricket-videos/218151/ipl-2027-auction-who-will-lsg-retain-or-release"
+     },
+     {
+      "ricerca": "brittany snow",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Simon G Jewels Worn By McKenna Grace and Brittany Snow at Recent Profile Events",
+      "url": "https://news.centurionjewelry.com/articles/detail/simon-g-jewels-worn-by-mckenna-grace-and-brittany-snow-at-recent-profile-events"
+     },
+     {
+      "ricerca": "ohio powerball winners nov 16",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Winning Powerball numbers for the $76 million jackpot on Monday, Nov. 16, 2026: See all the prizes hit in Ohio",
+      "url": "https://www.wkyc.com/article/news/lottery/winning-powerball-numbers-76-million-jackpot-monday-november-16-results-ohio-lottery-winners/95-327e6d75-77e7-4cca-b891-4dfe907d0ddd"
+     },
+     {
+      "ricerca": "ocarina of time remake pc port",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Can Nintendo Do Anything to Stop The Legend of Zelda: Ocarina of Time Remake Running Rampant on PC?",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it"
+     },
+     {
+      "ricerca": "luís cláudio",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Operação em SP mira advogadas suspeitas de desviar dinheiro em processo de separação do filho caçula de Lula e ex-companheira",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/operacao-em-sp-mira-advogadas-suspeitas-de-desviar-r-800-mil-em-processo-de-separacao-do-filho-cacula-de-lula-e-ex-companheira.ghtml"
+     },
+     {
+      "ricerca": "costa rica vs falkland islands",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "4th T20I, Costa Rica tour of Falkland Islands at Stanley, Nov 16 2026",
+      "url": "https://www.espn.com/cricket/series/24875/scorecard/1562230/falkland-islands-vs-costa-rica-4th-t20i-24875"
+     },
+     {
+      "ricerca": "வைகோ",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "விஜய் பற்றி பேசிய ஸ்டாலின் மீது வைகோ விமர்சனம்",
+      "url": "https://www.bbc.com/tamil/watch/cm4gnpj7kp2go"
+     },
+     {
+      "ricerca": "malin akerman",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Malin Akerman blows a kiss on the 'Hunting Wives' Season 2 red carpet and more star snaps",
+      "url": "https://pagesix.com/2026/11/13/photos/malin-akerman-blows-a-kiss-on-the-hunting-wives-season-2-red-carpet-and-more-star-snaps/"
+     },
+     {
+      "ricerca": "jodar",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Arthur Fils - Rafa Jódar en directo | Última hora de las ATP Finals, en vivo",
+      "url": "https://www.marca.com/tenis/copa-masters/arthur-fils-rafa-jodar/2026/11/17/04_0414_20261117_5-directo.html"
+     }
+    ]
+   }
+  }
+ }
+}

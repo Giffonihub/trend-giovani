@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-20",
+ "generato": "2026-11-20T13:54:03.557032+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "flavio cobolli",
+      "paese": "IT",
+      "volume": 20000,
+      "volume_testo": "20000+",
+      "notizia": "Cobolli-Alcaraz oggi alle Atp Finals, il risultato in diretta live della partita",
+      "url": "https://sport.sky.it/tennis/2026/11/20/cobolli-alcaraz-atp-finals-risultato"
+     },
+     {
+      "ricerca": "nasa",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+      "url": "https://apnews.com/article/nasa-voyager-interstellar-space-light-day-67f53a0e274157c92305e0b03d4b800d"
+     },
+     {
+      "ricerca": "grande fratello",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Grande Fratello Vip 9, perché non va in onda stasera 20 novembre",
+      "url": "https://mediasetinfinity.mediaset.it/news/mediasetinfinity/grandefratellovip/grande-fratello-vip-9-perche-non-va-in-onda-stasera-20-novembre_SE000000000024_t75FzHGeq5WVPv6nIFiEYTd"
+     },
+     {
+      "ricerca": "clemente russo",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "“Clemente Russo ha sbagliato a tornare, sabato lo manderò in pensione”, Elmaghraby lancia la sfida",
+      "url": "https://www.repubblica.it/sport/vari/2026/11/20/news/intervista_elmaghraby_boxe_rientro_clemente_russo-425736507/"
+     },
+     {
+      "ricerca": "charlotte casiraghi",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Charlotte Casiraghi: «Mi ha ferita essere ridotta a uno stereotipo. Alcuni pensano che avrei potuto semplicemente trascorrere la vita a bordo piscina. Mi hanno giudicata perché ho avuto figli da padri diversi»",
+      "url": "https://www.vanityfair.it/article/charlotte-casiraghi-stereotipi-famiglia-vita-privata"
+     },
+     {
+      "ricerca": "álex márquez",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Alex Márquez, sobre su operación: \"Tuvieron que solucionar algunos problemas más\"",
+      "url": "https://www.motogp.com/es/videos/2026/11/19/amarquez-sur-son-operation-ils-ont-du-regler-quelques-problemes-supplementaires-/1186369"
+     },
+     {
+      "ricerca": "xbox game pass",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, and Polterguys: Possession Party",
+      "url": "https://news.xbox.com/en-us/2026/11/19/free-play-days-11-19-2026/"
+     },
+     {
+      "ricerca": "putin",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "For Xi and Putin, the Trump trilateral was a win for a new world order",
+      "url": "https://www.cnn.com/2026/11/20/china/trump-meeting-china-russia-power-rebalance-intl-hnk"
+     },
+     {
+      "ricerca": "paolo sarullo",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Paolo Sarullo, tetraplegico, torna a camminare dopo 913 giorni: era rimasto paralizzato dopo l'aggressione per il furto del monopattino. Aveva raccontato la sua storia a Sanremo",
+      "url": "https://www.corriere.it/buone-notizie/26_novembre_20/paolo-sarullo-tetraplegico-torna-camminare-913-giorni-sanremo-7820ccd9-79b7-4cbf-abd7-14a4117eexlk.shtml"
+     },
+     {
+      "ricerca": "grevă",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Greva generală în Italia timp de 24 de ore: sunt anunțate proteste în șase mari orașe. Școlile, serviciile medicale și administrația își întrerup activitatea",
+      "url": "https://tvrinfo.ro/greva-generala-in-italia-timp-de-24-de-ore-sunt-anuntate-proteste-in-sase-mari-orase-scolile-serviciile-medicale-si-administratia-isi-intrerup-activitatea/"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "manuel neuer in brasilien",
+      "paese": "DE",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Was er da macht, wer sie sein soll: Neuer mit unbekannter Frau in Brasilien!",
+      "url": "https://www.bild.de/unterhaltung/stars-und-leute/was-er-da-macht-wer-sie-sein-soll-neuer-mit-unbekannter-frau-in-brasilien-6b00100039a3e8110f0e37b5"
+     },
+     {
+      "ricerca": "train",
+      "paese": "FR",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Un train stoppé in extremis à 2.000 mètres des voyageurs sur les voies: une collision a été évitée de peu, révèle l'enquête technique sur le déraillement d'un TER en Normandie",
+      "url": "https://www.bfmtv.com/economie/entreprises/transports/un-train-stoppe-in-extremis-a-2-000-metres-des-voyageurs-sur-les-voies-une-collision-a-ete-evitee-de-peu-revele-l-enquete-technique-sur-le-deraillement-d-un-ter-en-normandie_AD-202611200487.html"
+     },
+     {
+      "ricerca": "carlos alcaraz",
+      "paese": "ES",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Carlos Alcaraz - Flavio Cobolli en directo | Última hora de las ATP Finals, en vivo",
+      "url": "https://www.marca.com/tenis/copa-masters/carlos-alcaraz-flavio-cobolli/2026/11/20/04_0414_20261120_10-directo.html"
+     },
+     {
+      "ricerca": "carlos alcaraz",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Carlos Alcaraz - Flavio Cobolli en directo, el partido de las ATP Finals en vivo|Comienza el encuentro",
+      "url": "https://elpais.com/deportes/tenis/2026-11-20/carlos-alcaraz-flavio-cobolli-en-directo-el-partido-de-las-atp-finals-en-vivo.html"
+     },
+     {
+      "ricerca": "margrethe ii.",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Königin Margrethe drei Tage für tot erklärt",
+      "url": "https://www.ardmediathek.de/video/brisant/koenigin-margrethe-drei-tage-fuer-tot-erklaert/das-erste/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy80Y2Y3OTY2Zi01MzQ5LTRkNDQtYTcxNC00M2U4ZGM3ZGIzZDE"
+     },
+     {
+      "ricerca": "mont gaillard",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Le Havre. Une personne avec une arme à feu à Mont-Gaillard sème le trouble, des enfants confinés",
+      "url": "https://www.paris-normandie.fr/id760887/article/2026-11-20/le-havre-une-personne-avec-une-arme-feu-mont-gaillard-seme-le-trouble-des"
+     },
+     {
+      "ricerca": "playstation ps5 grand theft auto vi",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "'Grand Theft Auto VI': Hit video game turns into hot topic for politicians",
+      "url": "https://www.lemonde.fr/en/politics/article/2026/11/19/grand-theft-auto-vi-hit-video-game-turns-into-hot-topic-for-politicians_6784318_5.html"
+     },
+     {
+      "ricerca": "edurne y de gea",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Edurne y David de Gea, nuevos datos sobre su supuesta ruptura: quién tomó la decisión y los motivos",
+      "url": "https://www.hola.com/actualidad/20261119936088/edurne-david-de-gea-nuevos-datos-supuesta-ruptura/"
+     },
+     {
+      "ricerca": "aitana",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Aitana, ante las próximas elecciones del 29 de noviembre: “Sigamos avanzando y no retrocediendo”",
+      "url": "https://elpais.com/gente/2026-11-19/aitana-ante-las-proximas-elecciones-del-29-de-noviembre-sigamos-avanzando-y-no-retrocediendo.html"
+     },
+     {
+      "ricerca": "horarios motogp portugal",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Bezzecchi y Jorge Martín, delante de Marc Márquez en el inicio en Portimao",
+      "url": "https://www.marca.com/motor/motogp/gp-portugal/2026/11/20/bezzecchi-jorge-martin-delante-marc-marquez-inicio-portimao.html"
+     },
+     {
+      "ricerca": "antonio costa",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "UK-EU summit live: Burnham and EU leaders making statement",
+      "url": "https://www.bbc.co.uk/news/live/cm1j6gd3k5pdt"
+     },
+     {
+      "ricerca": "mönchengladbach",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Post-International Break Injury Updates",
+      "url": "https://www.fearthewall.com/general/25413/post-international-break-injury-updates"
+     },
+     {
+      "ricerca": "david pujadas",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "« Trop absent et trop occupé de moi-même » : David Pujadas exprime ses regrets sur son rôle de père auprès de ses filles aînées",
+      "url": "https://www.parismatch.com/trop-absent-trop-occupe-moi-meme-david-pujadas-exprime-ses-regrets-sur-son-role-pere-aupres-ses-filles-ainees-3EaXWcAwFHivgjKGOtBose"
+     },
+     {
+      "ricerca": "carlos alcaraz",
+      "paese": "GB",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Carlos Alcaraz - Flavio Cobolli en directo, el partido de las ATP Finals en vivo|Comienza el encuentro",
+      "url": "https://elpais.com/deportes/tenis/2026-11-20/carlos-alcaraz-flavio-cobolli-en-directo-el-partido-de-las-atp-finals-en-vivo.html"
+     },
+     {
+      "ricerca": "cbd",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Une nouvelle boutique de vente de CBD ouvre au Mans",
+      "url": "https://www.ouest-france.fr/economie/commerce/une-nouvelle-boutique-de-vente-de-cbd-ouvre-au-mans-047251f2-e369-11f1-ae82-c70cff497c1b"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "east bengal fc vs sc delhi standings",
+      "paese": "IN",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Defending Champions East Bengal FC Host Surging Sporting Club Delhi In Kolkata",
+      "url": "https://www.indiansuperleague.com/news/defending-champions-east-bengal-fc-host-surging-sporting-club-delhi-in-kolkata"
+     },
+     {
+      "ricerca": "carlos alcaraz",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Alcaraz vence a Medvedev en las Finales ATP pese a un problema físico y avanza a semifinales",
+      "url": "https://www.chicagotribune.com/2026/11/18/alcaraz-vence-a-medvedev-en-las-finales-atp-pese-a-un-problema-fsico-y-avanza-a-semifinales/"
+     },
+     {
+      "ricerca": "turkey",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "How two words could derail the world’s biggest climate conference",
+      "url": "https://www.cnn.com/2026/11/20/climate/cop31-talks-fossil-fuels-finance-electrification"
+     },
+     {
+      "ricerca": "carlos alcaraz",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Alcaraz continúa, pero sobre el alambre: los isquios vuelven a azotarle, él asume los riesgos",
+      "url": "https://elpais.com/deportes/tenis/2026-11-19/alcaraz-continua-en-turin-pero-sobre-el-alambre-los-isquios-vuelven-a-azotarle-el-asume-los-riesgos.html"
+     },
+     {
+      "ricerca": "carlos alcaraz",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Alcaraz gana tiempo y saltará a jugar el último partido con Cobolli",
+      "url": "https://www.marca.com/tenis/copa-masters/2026/11/19/alcaraz-gana-saltara-jugar-ultimo-partido-cobolli.html"
+     },
+     {
+      "ricerca": "previsão do tempo florianopolis",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Confira a Previsão do Tempo em SC",
+      "url": "https://g1.globo.com/sc/santa-catarina/videos-nsc-noticias/video/confira-a-previsao-do-tempo-em-sc-15265382.ghtml"
+     },
+     {
+      "ricerca": "patrick stewart",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Patrick Stewart's Cause of Death Revealed",
+      "url": "https://www.tmz.com/2026/11/19/patrick-stewart-cause-of-death/"
+     },
+     {
+      "ricerca": "बिहार",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "'अकवान' से बदलने वाला है बिहार का मौसम, 20 जिलों में बारिश और आंधी का अलर्ट; गिरेगा तापमान",
+      "url": "https://www.jagran.com/bihar/patna-city-cyclone-akvan-to-bring-rain-winds-to-bihar-weather-update-40442280.html"
+     },
+     {
+      "ricerca": "walton goggins",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Walton Goggins doesn't know if Fallout will \"come back for season 4\" but is confident season 3 remains true to \"the sacred nature of this game\"",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/walton-goggins-doesnt-know-if-fallout-will-come-back-for-season-4-but-is-confident-season-3-remains-true-to-the-sacred-nature-of-this-game/"
+     },
+     {
+      "ricerca": "ronny hallin passed away",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "’70s star and Happy Days legend dead at 88",
+      "url": "https://www.nine.com.au/entertainment/celebrity/ronny-hallin-death-aged-88-laverne-and-shirley-20261120-p61fuj.html"
+     },
+     {
+      "ricerca": "arabia saudita",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Arranha-céu mais alto da Arábia Saudita é danificado em ataque de houthis",
+      "url": "https://oglobo.globo.com/mundo/noticia/2026/11/20/arranha-ceu-mais-alto-da-arabia-saudita-e-danificado-em-ataque-de-houthis.ghtml"
+     },
+     {
+      "ricerca": "bob",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Bank of Baroda launches ₹5-crore financing scheme for EV infrastructure",
+      "url": "https://www.thehindu.com/business/Industry/bank-of-baroda-launches-5-crore-financing-scheme-for-ev-infrastructure/article71720596.ece"
+     },
+     {
+      "ricerca": "abdul el-sayed u.s. senate",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "‘I agree with the president’: incoming senator Abdul El-Sayed seeks to help Trump end military aid to Israel",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/el-sayed-trump-israel-aid"
+     },
+     {
+      "ricerca": "3x3",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Suwon KT Selects Lee Dong-geun as First Overall Pick",
+      "url": "https://www.chosun.com/english/sports-en/2026/11/20/NRZWHE6JDZALNMJMISDCNYKGZU/"
+     },
+     {
+      "ricerca": "trinity rodman",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Rodman eyes 'full-circle moment' with NWSL title: 'Would mean everything'",
+      "url": "https://www.espn.com/soccer/story/_/id/50535011/spirit-rodman-nwsl-title"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-21",
+ "generato": "2026-11-21T13:17:45.773264+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "ascolti tv 20 novembre 2026",
+      "paese": "IT",
+      "volume": 50000,
+      "volume_testo": "50000+",
+      "notizia": "Stasera in TV: film, programmi e serie di oggi venerdì 20 novembre",
+      "url": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/20/news/stasera_in_tv_film_programmi_serie_di_oggi_venerdi_20_novembre-425734004/"
+     },
+     {
+      "ricerca": "paolo bulgari",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Morto Paolo Bulgari, grande gioielliere aveva 89 anni",
+      "url": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/21/morto-paolo-bulgari-grande-gioielliere-aveva-89-anni_638fc3ea-0eef-45d0-abf3-6c92929a1619.html"
+     },
+     {
+      "ricerca": "como cagliari formazioni ufficiali",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Como-Cagliari pronostico risultato IA quote Serie A 12ª giornata",
+      "url": "https://www.gazzetta.it/scommesse/pronostici/calcio/serie-a/20-11-2026/como-cagliari-pronostico-risultato-ia-quote-12-giornata-82125.shtml"
+     },
+     {
+      "ricerca": "monopoli - cavese",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Guarda Monopoli contro Cavese in diretta oggi: chi trasmette la partita in TV e in live streaming?",
+      "url": "https://www.goal.com/it/notizie/guarda-monopoli-contro-cavese-in-diretta-oggi-chi-trasmette-la-partita-in-tv-e-in-live-streaming/blt99c36a28191bcc4a"
+     },
+     {
+      "ricerca": "adzic",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Allenamento mattutino al MFC. Sabato la conferenza di mister D’Aversa",
+      "url": "https://www.sassuolocalcio.it/prima-squadra/allenamento-mattutino-al-mfc-sabato-la-conferenza-di-mister-daversa/"
+     },
+     {
+      "ricerca": "sci alpino slalom femminile",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Della Mea è terza dopo la prima manche dello slalom di Gurgl. Tre azzurre alla seconda",
+      "url": "https://www.fisi.org/della-mea-e-terza-dopo-la-prima-manche-dello-slalom-di-gurgl-tre-azzurre-alla-seconda/"
+     },
+     {
+      "ricerca": "galatasaray - samsunspor",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Galatasaray-Samsunspor maçı başladı! Süper Lig’de heyecan dorukta",
+      "url": "https://mansethaber.com/spor/galatasaray-samsunspor-maci-basladi-super-ligde-heyecan-dorukta"
+     },
+     {
+      "ricerca": "tatanka",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "“Clemente Russo ha sbagliato a tornare, sabato lo manderò in pensione”, Elmaghraby lancia la sfida",
+      "url": "https://www.repubblica.it/sport/vari/2026/11/20/news/intervista_elmaghraby_boxe_rientro_clemente_russo-425736507/"
+     },
+     {
+      "ricerca": "davis udinese",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Zanetti: \"Andiamo a Bologna con umiltà e senza alibi\"",
+      "url": "https://www.udinese.it/news/squadra/zanetti-andiamo-a-bologna-con-umilta-e-senza-alibi"
+     },
+     {
+      "ricerca": "manhattan torino",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Ucciso a calci e pugni Francesco Zangari, titolare dell Manhattan Pub: fermato un dipendente",
+      "url": "https://www.lastampa.it/torino/2026/11/21/news/francesco_zangari_morto_titolare_manhattan_pub-15804984/"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "lotería nacional hoy",
+      "paese": "ES",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Lotería Nacional hoy: comprobar resultados del sorteo y números premiados del sábado 21 de noviembre, en directo",
+      "url": "https://www.elconfidencial.com/sorteos-y-loterias/2026-11-21/loteria-nacional-comprobar-resultados-directo-21-noviembre_4468574/"
+     },
+     {
+      "ricerca": "fabrice luchini",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Teddy Riner réagit à la une de « Paris Match » où il pose torse nu",
+      "url": "https://www.20minutes.fr/arts-stars/medias/4264406-20261120-presidentielle-2027-teddy-riner-reagit-paris-match-pose-torse-nu"
+     },
+     {
+      "ricerca": "c. e. sabadell - granada",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "El séptimo de caballería de Pacheta llega al Templo",
+      "url": "https://as.com/futbol/segunda/el-septimo-de-caballeria-de-pacheta-llega-al-templo-f202611-n/"
+     },
+     {
+      "ricerca": "zachert private equity poundland bid",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "German bidder stages last-gasp bid to rescue Poundland",
+      "url": "https://news.sky.com/story/german-bidder-stages-last-gasp-bid-to-rescue-poundland-13614626"
+     },
+     {
+      "ricerca": "deportivo alavés – deportivo",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Deportivo Alavés-RC Deportivo: Un reencuentro seis años después",
+      "url": "https://onefootball.com/es/noticias/deportivo-alaves-rc-deportivo-un-reencuentro-seis-anos-despues-43811241"
+     },
+     {
+      "ricerca": "rockstar games",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever",
+      "url": "https://www.bbc.com/culture/article/20261120-the-moment-i-realised-gta-6-was-a-masterpiece"
+     },
+     {
+      "ricerca": "un million",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "EuroMillions : le gain d’un million d’euros toujours pas réclamé en Bretagne, à quelques heures de son expiration",
+      "url": "https://www.ouest-france.fr/societe/jeux-loteries/euromillions/euromillions-le-gain-dun-million-deuros-toujours-pas-reclame-en-bretagne-a-quelques-heures-de-son-expiration-dacb1800-e4fa-11f1-afa7-9a0bb82a33d1"
+     },
+     {
+      "ricerca": "fcn heute",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "FCN - Neuer Trumpf im Aufstiegskampf: Klose hat jetzt eine Power-Bank",
+      "url": "https://www.bild.de/sport/fussball/fcn-neuer-trumpf-im-aufstiegskampf-klose-hat-jetzt-eine-power-bank-6afece7fa3767a11a0bea066"
+     },
+     {
+      "ricerca": "galatasaray vs samsunspor",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "December 5, 2026: Leipzig vs Mainz Soccer Prediction Market",
+      "url": "https://robinhood.com/us/en/prediction-markets/soccer/events/leipzig-vs-mainz-dec-05-2026/"
+     },
+     {
+      "ricerca": "matthias opdenhövel",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Matthias Opdenhövel und seine Frau: Seit 30 Jahren sind sie ein Paar",
+      "url": "https://www.joyn.de/bts/themen/stars/matthias-opdenhoevel-und-seine-frau-seit30-jahren-sind-sie-ein-paar-194269"
+     },
+     {
+      "ricerca": "alaves – deportivo",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Deportivo Alavés-RC Deportivo: Un reencuentro seis años después",
+      "url": "https://onefootball.com/es/noticias/deportivo-alaves-rc-deportivo-un-reencuentro-seis-anos-despues-43811241"
+     },
+     {
+      "ricerca": "james bond 007: skyfall",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "James Bond Officially Says Goodbye to Prime Video This Month",
+      "url": "https://collider.com/james-bond-movies-removed-from-prime-video-november-2026/"
+     },
+     {
+      "ricerca": "csikszereda - corvinul hunedoara",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Live Video&Score | Csikszereda - Corvinul 0-0, ACUM, DGS 1 | Capitolul la care hunedorenii sunt lideri",
+      "url": "https://www.digisport.ro/fotbal/liga-1/csikszereda-corvinul-0-0-acum-dgs-1-capitolul-la-care-hunedorenii-sunt-lideri-4616995"
+     },
+     {
+      "ricerca": "heidelberg",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Heidelberg: Verkehrsunfall legt Speyerer Straße teilweise lahm",
+      "url": "https://www.rnz.de/region/regionalticker/polizeiberichte_artikel,-Heidelberg-Verkehrsunfall-legt-Speyerer-Strasse-teilweise-lahm-_arid,2489743.html"
+     },
+     {
+      "ricerca": "loiret",
+      "paese": "FR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "nitto atp finals",
+      "paese": "US",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Daniil Medvedev beats Frances Tiafoe, faces Alexander Zverev in ATP Finals semis",
+      "url": "https://www.espn.com/tennis/story/_/id/50544020/daniil-medvedev-defeats-frances-tiafoe-faces-alexander-zverev-atp-finals-semis"
+     },
+     {
+      "ricerca": "ind a vs pak a",
+      "paese": "IN",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "टीम इंडिया ने प्वाइंट्स टेबल में हासिल की टॉप पोजीशन, पाकिस्तान दूसरे नंबर पर खिसका",
+      "url": "https://www.indiatv.in/sports/cricket/indian-has-secured-the-top-position-in-the-points-table-of-asia-cup-rising-stars-2026-while-pakistan-has-slipped-to-second-place-2026-11-21-1255490"
+     },
+     {
+      "ricerca": "bebê",
+      "paese": "BR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Em ação rápida, Polícia Civil resgata recém-nascida retirada da Santa Casa e prende suspeita de sequestro",
+      "url": "https://www.agenciapara.com.br/noticia/80703/em-acao-rapida-policia-civil-resgata-recem-nascida-retirada-da-santa-casa-e-prende-suspeita-de-sequestro"
+     },
+     {
+      "ricerca": "hierophant connections nyt",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "NYT Connections hints today: Meanings for each word for Nov. 21, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-21-2026"
+     },
+     {
+      "ricerca": "manchester city",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Premier League predictions & Jones Knows' best bets: Newcastle vs Arsenal, Liverpool vs Manchester United and much more!",
+      "url": "https://www.skysports.com/football/news/13611640/premier-league-predictions-and-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more"
+     },
+     {
+      "ricerca": "tulsi vivah katha",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Tulsi Vivah 2026: तुलसी विवाह के दिन सुहागिन महिलाएं जरूर करें ये काम, मिलेगा अखंड सौभाग्य का आशीर्वाद",
+      "url": "https://www.aajtak.in/religion/news/story/tulsi-vivah-2026-suhagin-women-must-do-these-5-things-for-happy-married-life-tviss-dskc-2702050-2026-11-21"
+     },
+     {
+      "ricerca": "alavés x la coruña",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "How to watch RC Deportivo La Coruna vs. Deportivo Alaves in the U.S.: TV channel and streaming options for November 21",
+      "url": "https://www.nytimes.com/athletic/7799805/2026/11/21/rc-deportivo-la-coruna-vs-deportivo-alaves-stream-how-to-watch-la-liga-nov-21/"
+     },
+     {
+      "ricerca": "dina morre na novela quem ama cuida",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Quem Ama Cuida: com 'ajuda do além', Rosa acha celular de Diná",
+      "url": "https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-com-ajuda-do-alem-rosa-acha-celular-de-dina.ghtml"
+     },
+     {
+      "ricerca": "anirudh reception",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "From Sequins To Classic Whites: Breaking Down Kavya Maran, Anirudh Ravichander's Pre-Wedding Looks",
+      "url": "https://www.ndtv.com/lifestyle/from-sequins-to-classic-whites-breaking-down-kavya-maran-anirudh-ravichanders-pre-wedding-looks-12354540"
+     },
+     {
+      "ricerca": "mercado de ações",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir",
+      "url": "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/"
+     },
+     {
+      "ricerca": "galatasaray vs samsunspor",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "December 5, 2026: Leipzig vs Mainz Soccer Prediction Market",
+      "url": "https://robinhood.com/us/en/prediction-markets/soccer/events/leipzig-vs-mainz-dec-05-2026/"
+     },
+     {
+      "ricerca": "liverpool vs chelsea",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Liverpool vs Chelsea LIVE: Text updates and match stats from WSL lunchtime kick-off",
+      "url": "https://www.bbc.com/sport/football/live/cr868wyllle2t"
+     },
+     {
+      "ricerca": "fox news politics",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "'Generational theft': Harsh pushback follows a plan to fund Social Security with more government borrowing",
+      "url": "https://finance.yahoo.com/economy/policy/article/generational-theft-harsh-pushback-follows-a-plan-to-fund-social-security-with-more-government-borrowing-160247441.html"
+     },
+     {
+      "ricerca": "alexander zverev ben shelton atp finals",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "What is the Nitto ATP Finals SF schedule?",
+      "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-schedule"
+     },
+     {
+      "ricerca": "raleigh christmas parade",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Christmas Holiday Season 2026 NC: Raleigh Tree Lighting, Parade; Here's how to Watch Live, info on parking, transportation",
+      "url": "https://abc11.com/post/christmas-holiday-season-2026-nc-raleigh-tree-lighting-parade-heres-how-watch-live-info-parking-transportation/20059319/"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-23",
+ "generato": "2026-11-23T15:46:05.679462+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "stipendi noipa",
+      "paese": "IT",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "NoiPA, cedolino e pagamenti novembre 2026: arrivano aumenti e arretrati",
+      "url": "https://tg24.sky.it/economia/2026/11/23/noipa-cedolino-novembre-2026-aumenti-arrestrati"
+     },
+     {
+      "ricerca": "chiara ferragni",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Chiara Ferragni «ce la farà a risollevarsi?» Cosa farà da grande? Abbiamo visto il documentario Netflix: ecco cosa (non) dice, dalla malattia di Fedez al Pandoro Gate",
+      "url": "https://www.corriere.it/spettacoli/26_novembre_23/chiara-ferragni-documentario-netflix-fedez-damato-pandoro-f7eeb339-c0e8-476f-9153-8578fff50xlk.shtml"
+     },
+     {
+      "ricerca": "avengers doomsday",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Joe Russo Talks ‘Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans”",
+      "url": "https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111/"
+     },
+     {
+      "ricerca": "nasdaq 100",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+     },
+     {
+      "ricerca": "massimo rivola",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "IL RUGGITO DI APRILIA RACING: È IL TEAM CAMPIONE DEL MONDO MOTOGP 2026",
+      "url": "https://www.aprilia.com/it_IT/mondo-aprilia/racing/aprilia-motogp-2026-team-world-champion/"
+     },
+     {
+      "ricerca": "الجونة ضد الزمالك",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "الجونة ضد الزمالك في مصر يضع الأبيض أمام فرصة جديدة لمواصلة المطاردة",
+      "url": "https://turkey-breaking.com/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B9%D8%A7%D8%AC%D9%84/news/2026/11/23/%D8%A7%D9%84%D8%AC%D9%88%D9%86%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A/"
+     },
+     {
+      "ricerca": "corrado augias: saluto di un maestro",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Stasera su La7, l'addio di Corrado Augias al suo pubblico, la scaletta l'ha decisa lui i giorni prima di morire",
+      "url": "https://www.corriere.it/spettacoli/26_novembre_22/lunedi-su-la7-l-addio-di-corrado-augias-al-suo-pubblico-la-scaletta-l-ha-decisa-lui-i-giorni-prima-di-morire-4601b3c2-64f7-4a49-85e9-c9d0f09f5xlk.shtml"
+     },
+     {
+      "ricerca": "sp500",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "USA: l'indice PMI composito sotto le attese a novembre",
+      "url": "https://it.marketscreener.com/notizie/usa-l-indice-pmi-composito-sotto-le-attese-a-novembre-ce7851dadd89f321"
+     },
+     {
+      "ricerca": "nvidia aktie",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "16:26 Huang kommt zurück - Dax schießt nach oben",
+      "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Montag-23-November-2026-id31565044.html"
+     },
+     {
+      "ricerca": "ancona today",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Auto si ribalta dopo lo schianto e vola nel fosso: ragazza intrappolata tra le lamiere",
+      "url": "https://www.anconatoday.it/cronaca/incidente-stradale/ieri-sera-falconara-auto-fosso.html"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "température",
+      "paese": "FR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Jusqu'à -4 °C dès demain matin : Météo-France annonce le gel dans ces villes jusqu'à jeudi",
+      "url": "https://selectra.info/energie/actualites/marche/gel-nord-est-jeudi-26-novembre-villes"
+     },
+     {
+      "ricerca": "météo-france",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "\"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html"
+     },
+     {
+      "ricerca": "sucesos",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Un hombre muere al recibir cuatro disparos a las puertas de un bar en el Poble Sec",
+      "url": "https://www.lavanguardia.com/sucesos/20261123/11690866/mossos-investigan-muerte-arma-fuego-distrito-sants-montjuic.html"
+     },
+     {
+      "ricerca": "route des gets",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Un important glissement de terrain bloque la route entre Taninges et Les Gets, une déviation mise en place",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/un-important-glissement-de-terrain-bloque-la-route-entre-taninges-et-les-gets-une-deviation-mise-en-place-3454215.html"
+     },
+     {
+      "ricerca": "hacker",
+      "paese": "GB",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro"
+     },
+     {
+      "ricerca": "leonida github",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Could This Major GTA VI Leak Make It Playable On PC?",
+      "url": "https://rockstarintel.com/could-this-major-gta-vi-leak-make-it-playable-on-pc/"
+     },
+     {
+      "ricerca": "rockstar games",
+      "paese": "ES",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+      "url": "http://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"
+     },
+     {
+      "ricerca": "leonida github",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
+      "url": "https://www.tweaktown.com/news/114815/cyberleek-claims-modders-could-get-gta-6-running-on-pc-within-a-week-after-reported-xbox-build-leak/index.html"
+     },
+     {
+      "ricerca": "asml aktie",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "ASML-Aktie mit neuem 6-Monats-Tief",
+      "url": "https://www.boerse.de/nachrichten/ASML-Aktie-mit-neuem-6-Monats-Tief/38731562"
+     },
+     {
+      "ricerca": "leonida",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Ad of the Day: Spectrum puts GTA VI fans’ patience to the test",
+      "url": "https://www.thedrum.com/news/ad-of-the-day-spectrum-puts-gta-vi-fans-patience-to-the-test"
+     },
+     {
+      "ricerca": "finanzen invest",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Take Two Aktie News: Take Two am Nachmittag mit roten Vorzeichen",
+      "url": "https://www.finanzen.net/nachricht/aktien/take_two-aktie-kursbewegung-23-11-2026-13018276"
+     },
+     {
+      "ricerca": "schuldenbremse",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Autobahngebühren: Die Maut ist unvermeidbar",
+      "url": "https://www.zeit.de/mobilitaet/2026-11/pkw-maut-autobahn-gebuehren-autofahrer"
+     },
+     {
+      "ricerca": "parastu ahmadi",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Menschenrechte: Bericht: Iranische Sängerin nach Urteil ausgepeitscht",
+      "url": "https://www.zeit.de/news/2026-11/23/bericht-iranische-saengerin-nach-urteil-ausgepeitscht"
+     },
+     {
+      "ricerca": "micron aktie",
+      "paese": "DE",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Alphabet, Nvidia und Sandisk – Tech-Abverkauf im Check",
+      "url": "https://www.onvista.de/news/2026/11-23-alphabet-nvidia-und-sandisk-tech-abverkauf-im-check-41122786-19-26579377"
+     },
+     {
+      "ricerca": "loïs openda",
+      "paese": "FR",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "OL : Openda prêté dès son retour de Lyon",
+      "url": "https://www.foot01.com/ol/ol-openda-prete-des-son-retour-de-lyon"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "paul goldschmidt",
+      "paese": "US",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "1B Goldschmidt agrees to deal with busy Mets (source)",
+      "url": "https://www.mlb.com/news/paul-goldschmidt-mets-contract"
+     },
+     {
+      "ricerca": "avengers doomsday",
+      "paese": "IN",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "‘Avengers: Doomsday’ final trailer: Doctor Doom’s face-off against superheroes",
+      "url": "https://www.telegraphindia.com/entertainment/avengers-doomsday-final-trailer-doctor-doom-face-off-against-the-superheroes/cid/2190896"
+     },
+     {
+      "ricerca": "tesla stock",
+      "paese": "US",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Cathie Wood Says TSLA Holders ‘Will Get’ A Premium If SpaceX Buys Tesla — HSBC Puts It At Over 30%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-says-tsla-holders-071405988.html"
+     },
+     {
+      "ricerca": "apple stock",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Berkshire Hathaway is keeping a quarter of its investments tied up in Apple",
+      "url": "https://appleinsider.com/articles/26/11/23/berkshire-hathaway-is-keeping-a-quarter-of-its-investments-tied-up-in-apple"
+     },
+     {
+      "ricerca": "lottery sambad today",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Nagaland State Lottery Dear Clover Monday Result Today 8 PM: Who Won Rs 1 Crore Jackpot? Full Winners List Here",
+      "url": "https://newsable.asianetnews.com/entertainment/nagaland-state-lottery-dear-clover-monday-result-today-8-pm-who-won-rs-1-crore-jackpot-full-winners-list-here-articleshow-oryiq20"
+     },
+     {
+      "ricerca": "ugc net",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "CSIR UGC NET December 2026 exam schedule released; check subject-wise exam dates",
+      "url": "https://bestcolleges.indiatoday.in/latest-news/csir-ugc-net-december-2026-exam-schedule-released-check-subject-wise-exam-dates-12681"
+     },
+     {
+      "ricerca": "sophie cunningham indiana fever offseason",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Who will WNBA teams draft if JuJu Watkins and other top prospects stay in college?",
+      "url": "https://www.nytimes.com/athletic/7796210/2026/11/20/wnba-draft-2027-top-prospects-juju-watkins/"
+     },
+     {
+      "ricerca": "al-shamal x al-ahli saudi",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Noite excepcional com sabor de vingança: Mahrez reabre o baú de memórias diante do Al-Ahli",
+      "url": "https://www.goal.com/br/not%C3%ADcias/noite-excepcional-com-sabor-de-vinganca-mahrez-reabre-o-bau-de-memorias-diante-do-al-ahli/blt82f4c191a1c34093"
+     },
+     {
+      "ricerca": "al-shamal vs al-ahli",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "\"Yesterday's friend\": Riyad Mahrez surprises Al-Ahli players before Al-Shamal clash",
+      "url": "https://www.goal.com/en-in/news/yesterday-s-friend-riyad-mahrez-surprises-al-ahli-players-before-al-shamal-clash/bltee1f3e007e6ec555"
+     },
+     {
+      "ricerca": "costco stock",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Costco’s Upcoming $30 Special Dividend Is Twice the Size of Its Last Special Payout. Is This the Most Unstoppable Consumer Staples Stock to Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-upcoming-30-special-dividend-183502995.html"
+     },
+     {
+      "ricerca": "al-shamal vs al-ahli",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Al Shamal vs Al Ahli Preview & Prediction | 2026-27 AFC Champions League Elite | League Stage",
+      "url": "https://www.thestatszone.com/al-shamal-vs-al-ahli-preview-prediction-2026-27-afc-champions-league-elite-league-stage-240883"
+     },
+     {
+      "ricerca": "cyberleek gta 6",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Could This Major GTA VI Leak Make It Playable On PC?",
+      "url": "https://rockstarintel.com/could-this-major-gta-vi-leak-make-it-playable-on-pc/"
+     },
+     {
+      "ricerca": "metro rio",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Vídeo mostra fumaça e correria estação na Central do metrô do Rio",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/23/metro-fumaca-central-rio.ghtml"
+     },
+     {
+      "ricerca": "gta6 review",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "GTA 6: especialistas explicam como o game virou fenômeno mundial",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/11/23/gta-especialistas-explicam-como-o-game-virou-fenomeno-mundial.ghtml"
+     },
+     {
+      "ricerca": "മമ്മൂട്ടി",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "ഇങ്ങനെ പോയാല്‍ 100 കോടി കടക്കും; സമ്മിശ്ര പ്രതികരണത്തിലും മികച്ച കലക്ഷനുമായി 'ഒ.എം'; രണ്ടാം ദിനം നേടിയത്",
+      "url": "https://www.manoramanews.com/entertainment/box-office/2026/11/22/om-operation-mole-is-registering-strong-numbers-at-the-global-box-office.html"
+     }
+    ]
+   }
+  }
+ }
+}

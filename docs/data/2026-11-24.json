@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-24",
+ "generato": "2026-11-24T15:38:10.816335+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "scamacca",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Juve, gigante cercasi: ecco i tre nomi per il centravanti chiesto da Spalletti",
+      "url": "https://www.gazzetta.it/Calcio/Calciomercato/Juventus/24-11-2026/juventus-gigante-cercasi-i-nomi-per-il-nuovo-centravanti.shtml"
+     },
+     {
+      "ricerca": "marcus thuram",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Chivu: \"Hard to explain. We need to improve\"",
+      "url": "https://www.inter.it/en/news/chivu-interview-atalanta-vs-inter-serie-a-2026-27"
+     },
+     {
+      "ricerca": "coppa d'africa",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Oggi si decide chi ha vinto la Coppa d’Africa di calcio",
+      "url": "https://www.ilpost.it/2026/11/24/coppa-africa-tas-vittoria-marocco-senegal/"
+     },
+     {
+      "ricerca": "rainews",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "La Giornata mondiale dei diritti dell'infanzia e dell'adolescenza raccontata da topo Camillo, nato dalla penna di Francesco Carofiglio",
+      "url": "https://www.illibraio.it/news/dautore/giornata-mondiale-diritti-infanzia-adolescenza-1514254/"
+     },
+     {
+      "ricerca": "pozzuolo martesana",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Incendio all'alba nel Milanese, fiamme in un appartamento: trovato morto un uomo",
+      "url": "https://www.milanotoday.it/cronaca/incendio/pozzuolo-martesana-morto-uomo-45-anni.html"
+     },
+     {
+      "ricerca": "missile",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Saudi Arabia turns to Ukraine, South Korea and others to counter attacks",
+      "url": "https://www.latimes.com/world-nation/story/2026-11-22/saudi-arabia-turns-to-ukraine-south-korea-others-to-counter-attacks"
+     },
+     {
+      "ricerca": "calhanoglu",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Inter, risentimento per Calhanoglu: circa un mese di stop. Torna in Supercoppa?",
+      "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/24-11-2026/inter-infortunio-calhanoglu-i-tempi-di-recupero.shtml"
+     },
+     {
+      "ricerca": "senegal",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "A Little Recap on January 18: Documenting CAS’ AFCON Case After Senegal’s Walk-Off",
+      "url": "https://www.moroccoworldnews.com/2026/11/347930/a-little-recap-on-january-18-documenting-cas-afcon-case-after-senegals-walk-off/"
+     },
+     {
+      "ricerca": "nozze",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Al matrimonio di Miley Cyrus non potevano mancare papà Billy Ray ed Elizabeth Hurley",
+      "url": "https://www.amica.it/video-post/miley-cyrus-matrimonio-maxx-morando-video-2/"
+     },
+     {
+      "ricerca": "incendio",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "VIDEO | Incendio a Roma, le immagini del rogo e del fumo nero uscito dai tombini",
+      "url": "https://www.romatoday.it/cronaca/video-incendio-roma-tombini-oggi-24-novembre-2026.html"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "vigilance forte inondations",
+      "paese": "FR",
+      "volume": 50000,
+      "volume_testo": "50000+",
+      "notizia": "Le département du Pas-de-Calais et la région Haut-de-France annoncent qu'ils vont payer les franchises d'assurances des sinistrés après les intempéries",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/le-departement-du-pas-de-calais-et-la-region-haut-de-france-annoncent-qu-ils-vont-payer-les-franchises-d-assurances-des-sinistres-apres-les-intemperies_8296794.html"
+     },
+     {
+      "ricerca": "détournement de fonds",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Métropole du Havre : une enquête préliminaire ouverte par le parquet après un signalement pour « détournement de fonds publics »",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/24/metropole-du-havre-une-enquete-preliminaire-ouverte-par-le-parquet-apres-un-signalement-pour-detournement-de-fonds-publics_6814732_3224.html"
+     },
+     {
+      "ricerca": "neuf départements sont placés en vigilance jaune ce mercredi face aux pluies verglaçantes",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "",
+      "url": ""
+     },
+     {
+      "ricerca": "atentado coche bomba colombia",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Abelardo de la Espriella, ante el último atentado en Colombia: \"Juro que se lo haré pagar a los narcoterroristas\"",
+      "url": "https://www.elmundo.es/internacional/2026/11/24/6b056607e4d4d84c4c8b4598.html"
+     },
+     {
+      "ricerca": "luis díaz",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Luis Díaz und die Hoffnung auf ein baldiges Comeback",
+      "url": "https://www.bundesliga.com/de/bundesliga/news/luis-diaz-und-die-hoffnung-auf-ein-baldiges-comeback-40115"
+     },
+     {
+      "ricerca": "auseinandersetzungen um die 35-stunden-woche",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "VW-Tarifverhandlungen: Die 35-Stunden-Woche steht in der Autobranche vor dem Aus",
+      "url": "https://www.wiwo.de/unternehmen/auto/vw-tarifverhandlungen-die-35-stunden-woche-steht-in-der-autobranche-vor-dem-aus/100272013.html"
+     },
+     {
+      "ricerca": "severe rain flood warning",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "California braces for triple flooding threat of huge tides, El Nino, warm oceans",
+      "url": "https://www.france24.com/en/live-news/20261124-california-braces-for-triple-flooding-threat-of-huge-tides-el-nino-warm-oceans"
+     },
+     {
+      "ricerca": "francoise gatel",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Salon des maires et des collectivités locales 2026",
+      "url": "https://travail-emploi.gouv.fr/salon-des-maires-et-des-collectivites-locales-2026"
+     },
+     {
+      "ricerca": "galatasaray aston villa",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Aston Villa’da kritik eksikler! Galatasaray maçı öncesi 4 futbolcu İstanbul’a getirilmedi",
+      "url": "https://www.sozcu.com.tr/aston-villa-da-kritik-eksikler-galatasaray-maci-oncesi-4-futbolcu-istanbul-a-getirilmedi-p383807"
+     },
+     {
+      "ricerca": "senegal",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Chaotisches Finale: Senegal erhält Afrika-Cup-Titel zurück",
+      "url": "https://www.spiegel.de/sport/fussball/afrika-cup-senegal-erhaelt-titel-nach-cas-entscheid-zurueck-a-dd29d788-7934-4580-b7d6-72530b684136"
+     },
+     {
+      "ricerca": "elizabeth chai vasarhelyi",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "'Everest: The Other Side' charts highs and lows of love and mountains",
+      "url": "https://www.france24.com/en/live-news/20261124-everest-the-other-side-charts-highs-and-lows-of-love-and-mountains"
+     },
+     {
+      "ricerca": "algérie u-17 – monténégro u-17",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "MONDIAL U17 : APRÈS LA DÉFAITE FACE AU CHILI (4-2) : Les Verts n'ont plus droit à l'erreur - Sports",
+      "url": "https://www.lesoirdalgerie.com/sports/les-verts-n-ont-plus-droit-a-l-erreur-160656"
+     },
+     {
+      "ricerca": "can 2027",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Logo, villes hôtes et nouveau sponsor, les avancées de la CAN 2027",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261123-logo-villes-h%C3%B4tes-et-nouveau-sponsor-les-avanc%C3%A9es-de-la-can-2027"
+     },
+     {
+      "ricerca": "anmer hall",
+      "paese": "ES",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "url": "https://www.bbc.com/news/articles/cr9d7qdg24vno"
+     },
+     {
+      "ricerca": "amanda owen",
+      "paese": "GB",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "At 52, the Yorkshire Shepherdess is swapping wellies for lacy LBDs",
+      "url": "https://www.telegraph.co.uk/fashion/style/yorkshire-shepherdess-swapping-wellies-for-dresses/"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "teruaki sato",
+      "paese": "US",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Sources: Cubs agree to 6-year, $120M deal with Japan's Teruaki Sato",
+      "url": "https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal"
+     },
+     {
+      "ricerca": "sufiyan muqeem",
+      "paese": "IN",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "वैभव सूर्यवंशी को पाकिस्तानी गेंदबाज ने घूरा, फिर दिया मुंहतोड़ जवाब, देखें VIDEO",
+      "url": "https://www.indiatv.in/sports/cricket/pakistani-bowler-ali-raza-glared-at-vaibhav-sooryavanshi-then-gave-befitting-reply-watch-the-video-2026-11-22-1255793"
+     },
+     {
+      "ricerca": "nasdaq today",
+      "paese": "US",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Nasdaq declines as Nvidia slides, giving back part of Monday’s rally: Live updates",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+     },
+     {
+      "ricerca": "trev alberts",
+      "paese": "US",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Attorney - Trev Alberts told he won't be next AD at Michigan",
+      "url": "https://www.espn.com/college-football/story/_/id/50583155/attorney-trev-alberts-told-next-ad-michigan"
+     },
+     {
+      "ricerca": "seiya suzuki",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "The Five Best Fits for Seiya Suzuki in MLB Free Agency",
+      "url": "https://www.si.com/mlb/five-best-fits-seiya-suzuki-free-agency-mariners-cubs-padres"
+     },
+     {
+      "ricerca": "br 101",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Carreta tomba na BR-101, em Niterói; ambos os sentidos são interditados e travam acesso à Ponte",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/24/carreta-tomba-na-br-101-em-niteroi.ghtml"
+     },
+     {
+      "ricerca": "బండ్ల గణేష్",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Bandla Ganesh: బండ్ల గణేష్ చెక్ బౌన్స్ కేసులో కీలక ట్విస్ట్.. సంచలన వీడియో వైరల్!",
+      "url": "https://telugu.news18.com/news/movies/bandla-ganesh-major-twist-in-95-lakh-cheque-bounce-case-bh-3272174.html"
+     },
+     {
+      "ricerca": "वादळ",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "",
+      "url": ""
+     },
+     {
+      "ricerca": "rivals",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
+      "url": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0"
+     },
+     {
+      "ricerca": "popcaan concert",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "",
+      "url": ""
+     },
+     {
+      "ricerca": "xbox game pass new games november",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Coming to XBOX Game Pass: Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and More",
+      "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/"
+     },
+     {
+      "ricerca": "coreia do sul",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Voo de aviões militares russos causa alerta na Coreia do Sul; Rússia alega manobra programada",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/bombardeiros-russos-coreia-do-sul.ghtml"
+     },
+     {
+      "ricerca": "shabab al-ahli x al quadisiya",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Today's match schedule and broadcast channels: Al-Ahli vs Al-Qadisiyah and Real Madrid vs PSV Eindhoven",
+      "url": "https://www.voiceofemirates.com/en/sport/2026/11/24/todays-match-schedule-and-broadcast-channels-al-ahli-vs-al-qadisiyah-and-real-madrid-vs-psv-eindhoven/"
+     },
+     {
+      "ricerca": "shabab alahli vs al qadsiah",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Watch Shabab Al-Ahli Dubai FC vs Al Qadsiah live today: Who is broadcasting the match on TV and via live stream?",
+      "url": "https://www.goal.com/en-in/news/live-stream-online-tv-where-to-watch-shabab-al-ahli-dubai-fc-v-al-qadsiah/blt18daac57e6af802c"
+     },
+     {
+      "ricerca": "धर्मेन्द्र",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Hema Malini Emotional: 'उनके बिना जिंदगी खाली है...',धर्मेंद्र की याद में टूटीं हेमा मालिनी, निधन के 1 साल बाद भी नहीं थम रहे आंसू",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/hema-malini-emotional-post-remembering-dharmendra-after-one-year-of-death-anniversary-tmova-2704304-2026-11-24"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-25",
+ "generato": "2026-11-25T15:22:50.456017+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "brignone",
+      "paese": "IT",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Federica Brignone si ritira",
+      "url": "https://www.fisi.org/federica-brignone-si-ritira/"
+     },
+     {
+      "ricerca": "autovelox",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Autovelox mobili, i controlli della polizia stradale dal 23 al 29 novembre: ecco dove",
+      "url": "https://www.bolognatoday.it/attualita/autovelox-mobili-bologna-dal-23-al-29-novembre-strade.html"
+     },
+     {
+      "ricerca": "sogno",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Federico Zampaglione: “Sogno una scuola che riporti l'attenzione sull'idea di non aspettarsi nulla quando si crea”",
+      "url": "https://www.tuttoscuola.com/federico-zampaglione-sogno-una-scuola-che-riporti-lattenzione-sullidea-di-non-aspettarsi-nulla-quando-si-crea/"
+     },
+     {
+      "ricerca": "torino film festival 2026",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Standing ovation per John Travolta al Tff: 'Mi avete permesso di volare in alto'",
+      "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/24/standing-ovation-per-john-travolta-al-tff-mi-avete-permesso-di-volare-in-alto_caf27fd6-7f31-48e9-8f43-3c265e5ca18f.html"
+     },
+     {
+      "ricerca": "supertennis tv",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Machaca SuperTennis: \"C'è una grande atmosfera, abbiamo i tigfosi migliori\"",
+      "url": "https://www.supertennis.tv/Media-gallery/Dettagli-video?videoId=E3EE1452-ED3E-47A7-AF24-60FB5CCCFAE0"
+     },
+     {
+      "ricerca": "sentenza",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Cosa cambia per Gaza dopo la sentenza sul genocidio in Birmania",
+      "url": "https://www.internazionale.it/opinione/anthony-samrani/2026/11/25/gaza-sentenza-genocidio-birmania"
+     },
+     {
+      "ricerca": "supertennis streaming",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Alcaraz, Coppa Davis a rischio e Spagna in allarme: l’infortunio frena Carlos, ma Ferrer ha un piano",
+      "url": "https://www.virgilio.it/sport/alcaraz-coppa-davis-spagna-allarme-infortunio-carlos-ferrer-piano-981669"
+     },
+     {
+      "ricerca": "iva zanicchi",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Cassino (FR) - Iva Zanicchi fa esplodere di entusiasmo il Teatro Manzoni con 'Viva la Mamma'",
+      "url": "https://radiocassino.it/cassino-fr-iva-zanicchi-fa-esplodere-di-entusiasmo-il-teatro-manzoni-con-viva-la-mamma/"
+     },
+     {
+      "ricerca": "redacon",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Baressa, appuntamenti in biblioteca per la Giornata contro la violenza sulle donne",
+      "url": "https://www.unionesarda.it/news-sardegna/agenda/baressa-appuntamenti-in-biblioteca-per-la-giornata-contro-la-violenza-sulle-donne-shh1nyfh"
+     },
+     {
+      "ricerca": "fluorsid group",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Svolta societaria dietro le quinte del Cagliari: Fluorsid Group diventa Mimeta Holding",
+      "url": "https://www.unionesarda.it/economia/svolta-societaria-dietro-le-quinte-del-cagliari-fluorsid-group-diventa-mimeta-holding-ll8ujzdc"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "hund",
+      "paese": "DE",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "11:41 Einsatz in Berliner Hotel: Polizist erschießt Hund",
+      "url": "https://www.n-tv.de/der_tag/Der-Tag-bei-ntv-de-am-Mittwoch-25-November-2026-id31574087.html"
+     },
+     {
+      "ricerca": "finanzmarkt",
+      "paese": "DE",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "USA kündigen neue Zölle an - auch gegen EU und China",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html"
+     },
+     {
+      "ricerca": "agirc-arrco",
+      "paese": "FR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "Retraites : votre pension de base sera-t-elle revalorisée au 1er janvier 2027 et de combien ?",
+      "url": "https://www.centrepresseaveyron.fr/2026/11/25/retraites-votre-pension-de-base-sera-t-elle-revalorisee-au-1er-janvier-2027-et-de-combien-13669068.php"
+     },
+     {
+      "ricerca": "vitamin d",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Vorschau: Superstoff Vitamin D - wie viel Sonnenvitamin ist optimal? • Deutschland 2023",
+      "url": "https://www.ardmediathek.de/tv-programm/6ad7ea57078d4d0b587ebe12"
+     },
+     {
+      "ricerca": "stickers whatsapp sonido",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Cómo compartir stickers con audio en grupos de WhatsApp",
+      "url": "https://www.infobae.com/tecno/2026/11/25/como-compartir-stickers-con-audio-en-grupos-de-whatsapp/"
+     },
+     {
+      "ricerca": "maribel sánchez-maroto",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "\"Haced lo que os salga del co...\": el Consejo de Informativos de TVE denuncia el \"abuso de poder\" y las injerencias de su propia dirección tras una entrevista a Pedro Sánchez",
+      "url": "https://www.elmundo.es/television/2026/11/25/6b068e54e85eceaf0f8b45ab.html"
+     },
+     {
+      "ricerca": "lincoln city f.c.",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Chris Cohen and Tom Shaw: Lincoln City sack joint head coaches",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no"
+     },
+     {
+      "ricerca": "joueur africain de l'année",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Encore un match Maroc - Sénégal : Achraf Hakimi, Brahim Diaz, Ismael Saibari, Pape Gueye et Sadio Mané finalistes pour le titre de joueur africain de l'année",
+      "url": "https://www.lequipe.fr/Football/Actualites/Encore-un-match-maroc-senegal-achraf-hakimi-brahim-diaz-ismael-saibari-pape-gueye-et-sadio-mane-finalistes-du-ballon-d-or-africain/1746017"
+     },
+     {
+      "ricerca": "la promesa",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Un actor de La Promesa anticipa el regreso de otro personaje",
+      "url": "https://www.elindependiente.com/series-y-television/2026/11/24/un-actor-de-la-promesa-anticipa-el-regreso-de-otro-personaje/"
+     },
+     {
+      "ricerca": "salmonella",
+      "paese": "ES",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Alerta por salmonela en estos huevos de supermercado",
+      "url": "https://www.hoy.es/sociedad/salud/sanidad-alerta-salmonela-huevos-supermercado-eroski-20261124084550-nt.html"
+     },
+     {
+      "ricerca": "danielle marshall marks spencer ban",
+      "paese": "GB",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Scammer banned from every M&S in Britain",
+      "url": "https://www.telegraph.co.uk/news/2026/11/25/scammer-marks-and-spencer-shoplifting/"
+     },
+     {
+      "ricerca": "iowa lead detonation",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Live updates: Army prepares to detonate several tons of lead azide in Iowa",
+      "url": "https://www.cnn.com/2026/11/25/us/live-news/iowa-lead-azide-detonation"
+     },
+     {
+      "ricerca": "consommation",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Alcool : l’expérimentation en hausse chez les collégiens et les lycéens, les autres usages régressent, y compris chez les adultes",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/24/alcool-l-experimentation-en-hausse-chez-les-collegiens-et-les-lyceens-les-autres-usages-regressent-y-compris-chez-les-adultes_6814822_3224.html"
+     },
+     {
+      "ricerca": "cameron smet",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Cameron, le petit-fils de Johnny Hallyday, officialise sa relation avec Joséphine",
+      "url": "https://www.chantefrance.com/cameron-le-petit-fils-de-johnny-hallyday-officialise-sa-relation-avec-josephine"
+     },
+     {
+      "ricerca": "emmanuel meafou",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Après avoir enrôlé Sititi, le Stade français est sur la piste d'un Springbok",
+      "url": "https://www.rugbyrama.fr/2026/11/25/transferts-top-14-apres-avoir-enrole-wallace-sititi-le-stade-francais-est-sur-la-piste-de-linternational-sud-africain-rg-snyman-13670663.php"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "why is the stock market down today",
+      "paese": "US",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+     },
+     {
+      "ricerca": "paraná",
+      "paese": "BR",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "6 mortes em 2 dias: quem eram as vítimas dos temporais no Paraná",
+      "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/25/mortes-temporais-parana-quem-eram-as-vitimas.ghtml"
+     },
+     {
+      "ricerca": "edital",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "EDITAL Nº 1/2026 CONCURSO PÚBLICO PARA PROVIMENTO DE VAGAS E FORMAÇÃO DE CADASTRO DERESERVA PARA CARGOS DE NÍVEL SUPERIOR",
+      "url": "https://www.cofen.gov.br/edital-no-1-2026-concurso-publico-para-provimento-de-vagas-e-formacao-de-cadastro-dereserva-para-cargos-de-nivel-superior/"
+     },
+     {
+      "ricerca": "dias toffoli",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "O que a Folha pensa: Escandaloso pacto da impunidade quer Moraes no topo",
+      "url": "https://www1.folha.uol.com.br/opiniao/2026/11/escandaloso-pacto-da-impunidade-quer-moraes-no-topo.shtml"
+     },
+     {
+      "ricerca": "10 year treasury yield",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995"
+     },
+     {
+      "ricerca": "warde manuel",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Sources: Manuel to remain Michigan AD until new hire is found",
+      "url": "https://www.espn.com/college-football/story/_/id/50592920/sources-manuel-stay-job-new-michigan-ad-hired"
+     },
+     {
+      "ricerca": "deandra dottin",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Deandra Dottin bowled off a 'free ball' in WBBL",
+      "url": "https://www.cricinfo.com/story/wbbl-2026-27-deandra-dottin-bowled-off-a-free-ball-1564130"
+     },
+     {
+      "ricerca": "soxl stock",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "On-chain stock futures: SOXL trades 13.68% below cash close",
+      "url": "https://www.tokenpost.com/news/investing/62509"
+     },
+     {
+      "ricerca": "why is the market down today",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026"
+     },
+     {
+      "ricerca": "kevin viveros",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Athletico-PR avança por venda de Viveros a clube europeu, mas jogador ainda 'trava' conversas",
+      "url": "https://www.espn.com.br/futebol/mercado-da-bola/artigo/_/id/17559669/athletico-pr-avancar-venda-viveros-cska-jogador-trava-conversas"
+     },
+     {
+      "ricerca": "reflexão",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "",
+      "url": ""
+     },
+     {
+      "ricerca": "serramar mall",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Serramar Mall confirma Estrela do Lar, Cacau Show, O Boticário e mais marcas na Zona Leste de São José",
+      "url": "https://noticiassjc.com.br/serramar-mall-novas-marcas-estrela-do-lar-cacau-show-boticario-assai-vila-industrial-zona-leste-sao-jose-dos-campos/"
+     },
+     {
+      "ricerca": "embj3",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Tarifaço de Trump: EUA propõem tarifa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-tarifas-mais-altas-sobre-importacoes-do-brasil.ghtml"
+     },
+     {
+      "ricerca": "grand theft auto gta vi",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Grand Theft Auto VI Now Available",
+      "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
+     },
+     {
+      "ricerca": "sabah vs barcelona",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "El Barça viaja a los confines de la UEFA para enfrentarse al Sabah en Champions",
+      "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20261125-el-bar%C3%A7a-viaja-a-los-confines-de-la-uefa-para-enfrentarse-al-sabah-en-champions"
+     }
+    ]
+   }
+  }
+ }
+}

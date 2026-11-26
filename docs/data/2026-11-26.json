@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-26",
+ "generato": "2026-11-26T14:50:22.434737+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "revisione",
+      "paese": "IT",
+      "volume": 20000,
+      "volume_testo": "20000+",
+      "notizia": "Revisione annuale vecchie auto, la Commissione europea cambia rotta",
+      "url": "https://www.virgilio.it/motori/info-utili/revisione-annuale-vecchie-auto/358023/"
+     },
+     {
+      "ricerca": "luis enrique roma",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "\"Mamma mia come gioca la Roma!\": cosa si sono detti Gasp e Luis Enrique, i retroscena",
+      "url": "https://www.gazzetta.it/Calcio/Champions-League/26-11-2026/luis-enrique-gasperini-parole-retroscena-psg-roma.shtml"
+     },
+     {
+      "ricerca": "rheinmetall",
+      "paese": "IT",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Rheinmetall-Aktie dreht auf: Warum RBC trotz Kurszielsenkung optimistisch bleibt",
+      "url": "https://www.finanzen.net/nachricht/aktien/expertenstimme-rheinmetall-aktie-vor-kapitalmarkttag-gefragt-wie-viel-potenzial-rbc-trotz-kurszielsenkung-noch-sieht-16087787"
+     },
+     {
+      "ricerca": "lucio battisti",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Nardò, ritrovata a pezzi la statua rubata di Lucio Battisti",
+      "url": "https://tg24.sky.it/cronaca/2026/11/25/statua-rubata-lucio-battisti-nardo-ritrovata"
+     },
+     {
+      "ricerca": "kuwait",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Attacco iraniano in Kuwait, morti due italiani",
+      "url": "https://www.repubblica.it/esteri/2026/11/26/news/attacco_iraniano_in_kuwait_due_italiani_feriti_gravi_condizioni-425752146/"
+     },
+     {
+      "ricerca": "taylor lazio",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Lazio, problema muscolare per Taylor. E la società annulla la cena di Natale",
+      "url": "https://www.ilmessaggero.it/sport/ss_lazio/taylor_infortunio_lazio_annulla_cena_di_natale_perche-9914715.html"
+     },
+     {
+      "ricerca": "sergio garcia",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Moto2, fino a poco fa in lotta per il Mondiale, ora lascia le corse a 23 anni: le parole di Sergio Garcia",
+      "url": "https://www.moto.it/MotoGP/moto2-fino-poco-fa-lotta-per-mondiale-ora-lascia-corse-23-anni-parole-sergio-garcia.html"
+     },
+     {
+      "ricerca": "luca marini",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Joan Mir a Valencia per l'ultimo GP sulla Honda",
+      "url": "https://www.motogp.com/it/news/2026/11/26/joan-mir-to-return-for-final-honda-farewell-in-valencia/1268287"
+     },
+     {
+      "ricerca": "patrick mouratoglou",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Serena Williams ex coach states what tennis fans ‘always forget’ about Carlos Alcaraz",
+      "url": "https://sports.yahoo.com/articles/serena-williams-ex-coach-states-130000177.html"
+     },
+     {
+      "ricerca": "1password",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Confermato un attacco hacker a 1Password, quali dati sono stati rubati",
+      "url": "https://www.fastweb.it/fastweb-plus/digital-dev-security/confermato-un-attacco-hacker-a-1password-quali-dati-sono-stati-rubati/"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "ibu-cup",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Biathletin Sophia Schneider zum Saisonauftakt beim IBU-Cup in Schweden am Start",
+      "url": "https://www.traunsteiner-tagblatt.de/sport/sport-aus-der-region_artikel,-biathletin-sophia-schneider-zum-saisonauftakt-beim-ibucup-in-schweden-am-start-_arid,1028532.html"
+     },
+     {
+      "ricerca": "aktenzeichen xy … ungelöst",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "„Aktenzeichen XY“: Um diese Fälle geht es in der nächsten Ausgabe",
+      "url": "https://www.rnd.de/medien/aktenzeichen-xy-heute-um-diese-faelle-geht-es-am-mittwoch-18-november-2026-2GC2Y5RYDXA3WGANADISJ5SF3Q.html"
+     },
+     {
+      "ricerca": "naufrage ibiza",
+      "paese": "FR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Un navire transportant jusqu'à 7 000 tonnes de diesel coule au large de l'île espagnole d'Ibiza, faisant un mort parmi les membres de l'équipage",
+      "url": "https://www.franceinfo.fr/monde/espagne/un-navire-transportant-jusqu-a-7-000-tonnes-de-diesel-coule-au-large-de-l-ile-espagnole-d-ibiza-faisant-un-mort-parmi-les-membres-de-l-equipage_8300973.html"
+     },
+     {
+      "ricerca": "marruecos sub-17 - selección de fútbol sub-17 de españa",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Primer examen para España",
+      "url": "https://www.marca.com/futbol/seleccion/2026/11/26/primer-examen-espana.html"
+     },
+     {
+      "ricerca": "stickers con sonido",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "WhatsApp comienza a probar los stickers con sonido: así cambiarán tus conversaciones",
+      "url": "https://www.elconfidencial.com/tecnologia/2026-11-25/whatsapp-comienza-probar-stickers-con-sonido-conversaciones_4472542/"
+     },
+     {
+      "ricerca": "royal navy hms excellent security",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Security incident reported at Royal Navy headquarters",
+      "url": "https://news.sky.com/story/security-incident-reported-at-royal-navy-headquarters-13616806"
+     },
+     {
+      "ricerca": "jonathan frakes",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "‘Star Trek’ Actor Jonathan Frakes Says an Unexpected Symptom Led to His Bladder Cancer Diagnosis",
+      "url": "https://people.com/star-trek-actor-jonathan-frakes-says-an-unexpected-symptom-led-to-his-bladder-cancer-diagnosis-12281233"
+     },
+     {
+      "ricerca": "darts",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Darum fehlt Luke Littler beim letzten Major vor der Darts-WM",
+      "url": "https://www.sport1.de/news/darts-sport/2026/11/darum-fehlt-luke-littler-beim-letzten-major-vor-der-darts-wm"
+     },
+     {
+      "ricerca": "lecornu",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "EN DIRECT, congrès des maires de France : David Lisnard vante « la nécessité de faire entendre la voix du terrain » avant un débat avec Sébastien Lecornu et Gérard Larcher",
+      "url": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-david-lisnard-est-accuse-de-compromission-avec-l-extreme-droite-par-gerald-darmanin_6815062_823448.html"
+     },
+     {
+      "ricerca": "maroc u-17 – espagne u-17",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Mondial U17: Maroc-Espagne, à quelle heure et sur quelles chaînes?",
+      "url": "https://sport.le360.ma/football/mondial-u17-maroc-espagne-a-quelle-heure-et-sur-quelles-chaines_WLQ344LJWVB6TH6HMYXPGRO4FY/"
+     },
+     {
+      "ricerca": "mutares",
+      "paese": "FR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Mutares verkauft Mehrheitsbeteiligung an französischem Hersteller von Heimwerkerprodukten Lapeyre Group",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/mutares-verkauft-mehrheitsbeteiligung-an-franzoesischem-hersteller-von-heimwerkerprodukten-lapeyre-gr-ce7851d8df8cff23"
+     },
+     {
+      "ricerca": "gregor smith",
+      "paese": "GB",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Chief medical officer Gregor Smith resigns on mental health grounds",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y108evd7qo"
+     },
+     {
+      "ricerca": "charlotte arnould",
+      "paese": "GB",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "French actor Gerard Depardieu to face trial for rape, his lawyer says",
+      "url": "https://www.cnn.com/2026/11/26/europe/gerard-depardieu-courts-intl"
+     },
+     {
+      "ricerca": "bsw europaabgeordnete moskau",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "BSW-Europaabgeordnete in Moskau: Wie der Putin-Freund Europa unverhohlen droht",
+      "url": "https://www.zeit.de/2026/51/bsw-michael-von-der-schulenburg-ruth-firmenich-sergej-karaganow-moskau"
+     },
+     {
+      "ricerca": "grand prix de formule 1 du qatar",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "[Podcasts] Le Warm Up du GP du Qatar — Leclerc, et si on s'était trompé sur son niveau ?",
+      "url": "https://rmc.bfmtv.com/podcasts/le-paddock-rmc/le-warm-up-du-gp-du-qatar-leclerc-et-si-on-s-etait-trompe-sur-son-niveau_EN-202611260620.html"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "tornado warning",
+      "paese": "US",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "‘That’s so cool’: Waterspouts spotted over San Francisco Bay",
+      "url": "https://weather.com/2026/11/17/news/trending/video/san-francisco-bay-twin-waterspouts-caught-on-camera"
+     },
+     {
+      "ricerca": "david vasco",
+      "paese": "BR",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "David, atacante do Vasco, é preso no CT do clube por suspeita de tentar interferir em depoimentos",
+      "url": "https://oglobo.globo.com/esportes/noticia/2026/11/26/david-do-vasco-e-preso-pela-policia-civil-no-rio.ghtml"
+     },
+     {
+      "ricerca": "al fateh x al-riyadh",
+      "paese": "BR",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Die Top-Stats: Werder Bremen vs. Borussia Mönchengladbach",
+      "url": "https://onefootball.com/en/video/die-top-stats-werder-bremen-vs-borussia-moenchengladbach-3MauJy6WbRm78IQhaKsg2xnaBUe"
+     },
+     {
+      "ricerca": "tamil nadu vs saurashtra",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Syed Mushtaq Ali Trophy, Round 7 - Rajasthan, Punjab qualify; Saurashtra out",
+      "url": "https://www.cricinfo.com/series/syed-mushtaq-ali-trophy-2026-27-1546522/punjab-vs-bihar-elite-group-b-1546777/live-match-blog"
+     },
+     {
+      "ricerca": "mi emirates vs abu dhabi knight riders",
+      "paese": "IN",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "ADKR vs MIE, 7th Match, International League T20 2026 - Commentary",
+      "url": "https://m.cricbuzz.com/live-cricket-scores/175273/mie-vs-adkr-7th-match-international-league-t20-2026"
+     },
+     {
+      "ricerca": "charlotte arnould",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Gérard Depardieu renvoyé en procès pour une partie des viols dont il est accusé par Charlotte Arnould",
+      "url": "https://www.france24.com/fr/france/20261126-gerard-depardieu-renvoy%C3%A9-en-appel-pour-une-partie-des-viols-dont-il-est-accuse-par-charlotte-arnould"
+     },
+     {
+      "ricerca": "sarah hyland",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Today’s famous birthdays list for November 24, 2026 includes celebrities Colin Hanks, Sarah Hyland",
+      "url": "https://www.cleveland.com/entertainment/2026/11/todays-famous-birthdays-list-for-november-24-2026-includes-celebrities-colin-hanks-sarah-hyland.html"
+     },
+     {
+      "ricerca": "walmart black friday",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "What time does Walmart open on Black Friday?",
+      "url": "https://www.al.com/news/huntsville/2026/11/what-time-does-walmart-open-on-black-friday.html"
+     },
+     {
+      "ricerca": "college football today",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Most, least thankful teams this season: Oregon counts its blessings, while LSU feels holiday hangover",
+      "url": "https://www.cbssports.com/college-football/news/college-football-teams-thankful-this-2026-season/"
+     },
+     {
+      "ricerca": "sucuri",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Passeio no fim da tarde termina em encontro com sucuri gigante devorando pássaro camuflada em rio",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/26/passeio-no-fim-da-tarde-termina-em-encontro-com-sucuri-gigante-devorando-passaro-camuflada-em-rio.ghtml"
+     },
+     {
+      "ricerca": "gukesh vs sindarov game 3",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Gukesh and Sindarov's press conference after Game 2",
+      "url": "https://chessbase.in/news/gukesh-and-sindarov-press-conference-after-game-2"
+     },
+     {
+      "ricerca": "employees' provident fund organisation",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "EPFO 3.0 Launch In February 2027? All About Big PF Changes",
+      "url": "https://www.ndtv.com/india-news/epfo-3-0-launch-in-february-2027-all-about-big-pf-changes-12380905"
+     },
+     {
+      "ricerca": "ciara",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Ciara and Russell Wilson Kick Off Christmas at Macy's",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/ciara-russell-wilson-kick-off-200203691.html"
+     },
+     {
+      "ricerca": "ipca",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Prévia da inflação fecha novembro em 0,22%, taxa abaixo das expectativas",
+      "url": "https://economia.uol.com.br/noticias/redacao/2026/11/26/ipca-15-novembro-2026.ghtm"
+     },
+     {
+      "ricerca": "national day of mourning",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Massachusetts judge rules Plymouth owes no stage for Thanksgiving protest in America's Hometown",
+      "url": "https://www.bostonherald.com/2026/11/25/massachusetts-judge-rules-plymouth-owes-no-stage-for-thanksgiving-protest-in-americas-hometown/"
+     }
+    ]
+   }
+  }
+ }
+}

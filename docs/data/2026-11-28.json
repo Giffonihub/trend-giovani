@@ -1,0 +1,347 @@
+{
+ "data": "2026-11-28",
+ "generato": "2026-11-28T13:58:27.986352+00:00",
+ "aree": {
+  "Italia": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "pescara - pianese",
+      "paese": "IT",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "",
+      "url": ""
+     },
+     {
+      "ricerca": "empoli - verona",
+      "paese": "IT",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Empoli-Verona: Formazioni ufficiali e Cronaca in diretta",
+      "url": "https://www.virgilio.it/sport/dirette/live/serie-b/28-11-2026/empoli-verona/2670803/"
+     },
+     {
+      "ricerca": "frosinone vs parma",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Frosinone, against Parma Alvini with the new number 9: Bobcek starts and Grillitsch returns",
+      "url": "https://www.gazzetta.it/en/Calcio/Serie-A/Frosinone/27-11-2026/frosinone-predicted-line-up-against-parma-bobcek-starts-and-grillitsch-returns.shtml"
+     },
+     {
+      "ricerca": "29 novembre",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Oroscopo di domani: previsioni del giorno 29/11/2026",
+      "url": "https://www.amica.it/oroscopo/giorno/sommario-29-11-2026/"
+     },
+     {
+      "ricerca": "arthur fery",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Arthur Fery Reveals How Alexander Zverev Match Prepared Him for Carlos Alcaraz",
+      "url": "https://www.sportscapemagazine.com/blog/arthur-fery-alexander-zverev-match-prepared-carlos-alcaraz-davis-cup-semifinal"
+     },
+     {
+      "ricerca": "novara - alcione milano",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Novara-Alcione Milano, le formazioni ufficiali",
+      "url": "https://www.novarafootballclub.it/novara-alcione-milano-tabellino-3/"
+     },
+     {
+      "ricerca": "nebrodi",
+      "paese": "IT",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Svolta nel giallo dei cacciatori uccisi nei boschi dei nebrodi, nel Messinese: arrestato un amico di una delle vittime. Aveva detto «ero lì» per poi ritrattare",
+      "url": "https://www.corriere.it/cronache/26_novembre_28/tre-cacciatori-uccisi-nel-messinese-c-e-un-arresto-su-una-vicenda-rimasta-avvolta-nel-mistero-2747b403-7988-4795-b1c7-26f9661bbxlk.shtml"
+     },
+     {
+      "ricerca": "lusso",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "“La gente mi ama, la gente mi odia. Io divido”: la vita senza filtri di Philipp Plein",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/27/news/designer_philipp_plein_docuserie-15811344/"
+     },
+     {
+      "ricerca": "j. k. rowling",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Boycotting HBO’s ‘Harry Potter’ Won’t Change J.K. Rowling’s Actions, Historian Says",
+      "url": "https://collider.com/harry-potter-hbo-series-jk-rowling-boycott-melissa-anelli/"
+     },
+     {
+      "ricerca": "ze love",
+      "paese": "IT",
+      "volume": 100,
+      "volume_testo": "100+",
+      "notizia": "Preziosi ricorda: \"Andai in Brasile per Neymar, tornai con Zé Love. Che lite con Gasp per Bonucci e Ranocchia\"",
+      "url": "https://www.gazzetta.it/Calcio/Serie-A/Genoa/27-11-2026/intervista-preziosi-genoa-neymar-ze-love-milito-motta-inter.shtml"
+     }
+    ]
+   }
+  },
+  "Europa": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "bordeaux-bègles – montpellier",
+      "paese": "FR",
+      "volume": 10000,
+      "volume_testo": "10000+",
+      "notizia": "Bordeaux-Bègles - Montpellier en direct",
+      "url": "https://www.lequipe.fr/Rugby/match-direct/top-14/2026-2027/ubb-begles-bordeaux-montpellier-live/42460"
+     },
+     {
+      "ricerca": "hsv – bayern",
+      "paese": "DE",
+      "volume": 5000,
+      "volume_testo": "5000+",
+      "notizia": "FC Bayern: Neue Sturm-Option für Vincent Kompany!",
+      "url": "https://www.bild.de/sport/fussball/fc-bayern-neue-sturm-option-fuer-vincent-kompany-6b09b9243d0d9d6539f908a0"
+     },
+     {
+      "ricerca": "sc paderborn – schalke",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Duell der Aufsteiger: Schalke 04 vor erstem Endspiel beim SC Paderborn",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-vor-erstem-endspiel-beim-sc-paderborn-100.html"
+     },
+     {
+      "ricerca": "köln – elversberg",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Die FC-Startelf gegen Elversberg",
+      "url": "https://fc.de/aktuelles/news/die-fc-startelf-gegen-elversberg"
+     },
+     {
+      "ricerca": "mainz – union berlin",
+      "paese": "DE",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Krise bei den Rheinhessen: Vor Duell mit dem Ex-Club: Mainz 05 und Urs Fischer brauchen dringend einen Sieg",
+      "url": "https://www.sportschau.de/regional/swr/swr-vor-duell-mit-dem-ex-club-mainz-05-und-urs-fischer-brauchen-dringend-einen-sieg-100.html"
+     },
+     {
+      "ricerca": "granada",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Un terremoto de 3.6 en un pueblo de Granada agita la capital y otros seis municipios",
+      "url": "https://www.ideal.es/granada/terremoto-pueblo-granada-agita-capital-seis-municipios-20261128131637-nt.html"
+     },
+     {
+      "ricerca": "multa",
+      "paese": "ES",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Bruselas multa con 472 millones a los tres mayores productores de fragancias para perfumes por formar un cartel",
+      "url": "https://facua.org/noticias/bruselas-multa-con-472-millones-a-los-tres-mayores-productores-de-fragancias-para-perfumes-por-formar-un-cartel/"
+     },
+     {
+      "ricerca": "london weather",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "UK weather: Will there be a white Christmas this year?",
+      "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo"
+     },
+     {
+      "ricerca": "allianz stadium",
+      "paese": "GB",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Twickenham set to be half empty for Nations Championship finals opening night",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c65y1k8428qdo"
+     },
+     {
+      "ricerca": "ulm",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Angriff mit Messer: Zwei Männer nach Streit in Regionalbahn schwer verletzt",
+      "url": "https://www.spiegel.de/panorama/justiz/zug-von-ulm-nach-memmingen-zwei-maenner-nach-streit-in-regionalbahn-schwer-verletzt-a-cb8c5387-108b-4282-be9d-81d4d4b021dd"
+     },
+     {
+      "ricerca": "biathlon ergebnisse heute",
+      "paese": "DE",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Einzel in Kontiolahti: Julia Tannheimer stark bei Sieg von Elvira Öberg",
+      "url": "https://www.sportschau.de/wintersport/biathlon/julia-tannheimer-ueberzeugt-bei-oeberg-sieg,biathlon-kontiolahti-einzel-frauen-100.html"
+     },
+     {
+      "ricerca": "bsw",
+      "paese": "DE",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "BSW stimmt gegen stärkere Abgrenzung von der AfD",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-stimmt-gegen-staerkere-abgrenzung-von-der-afd"
+     },
+     {
+      "ricerca": "abonnement",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Black Friday streaming : cette offre Deezer s'arrache à la pelle depuis ce matin et vu les avantages tout s'explique",
+      "url": "https://www.bfmtv.com/tech/bons-plans/black-friday-streaming-cette-offre-deezer-s-arrache-a-la-pelle-depuis-ce-matin-et-vu-les-avantages-tout-s-explique_AB-202611280092.html"
+     },
+     {
+      "ricerca": "a432",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "A contresens sur l'autoroute, un utilitaire percute un poids lourd : deux blessés graves, la circulation perturbée près de l'aéroport de Lyon",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/a-contresens-sur-l-autoroute-un-utilitaire-percute-un-poids-lourd-deux-blesses-graves-la-circulation-perturbee-pres-de-l-aeroport-de-lyon-3457550.html"
+     },
+     {
+      "ricerca": "a85",
+      "paese": "FR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Une camionnette percute un poids lourd sur l’autoroute en Maine-et-Loire : un homme gravement blessé, la circulation temporairement coupée",
+      "url": "https://www.ouest-france.fr/faits-divers/accidents/une-camionnette-percute-un-poids-lourd-sur-lautoroute-en-maine-et-loire-un-homme-gravement-blesse-la-circulation-temporairement-coupee-154718d0-ea87-11f1-bb2d-c71dc7920c2a"
+     }
+    ]
+   }
+  },
+  "Mondo": {
+   "temi": [],
+   "fonti": {
+    "google_trends": [
+     {
+      "ricerca": "savannah guthrie",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Pacemaker clue? Drone tech advances could revive Guthrie search",
+      "url": "https://www.newsnationnow.com/crime/pacemaker-clue-drone-tech-advances-guthrie/"
+     },
+     {
+      "ricerca": "local election results",
+      "paese": "US",
+      "volume": 2000,
+      "volume_testo": "2000+",
+      "notizia": "Ruling party makes gains in Taiwan local elections watched by China",
+      "url": "https://www.reuters.com/world/china/taiwan-votes-key-local-elections-china-looks-2026-11-28/"
+     },
+     {
+      "ricerca": "where is college gameday",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Little Richard's Barbecue in Winston-Salem to serve as Guest Chef for ESPN's College GameDay",
+      "url": "https://www.wfmynews2.com/article/life/food/little-richards-barbecue-in-winston-salem-to-serve-as-guest-chef-for-espns-college-gameday-nc/83-7316c814-d715-49da-aafa-0900adef4391"
+     },
+     {
+      "ricerca": "savannah guthrie mom",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Today: Thanksgiving Morning Lead-In to the 100th Parade",
+      "url": "https://www.imdb.com/news/ni66125050/?ref_=nmnw_art_perm"
+     },
+     {
+      "ricerca": "al roker",
+      "paese": "US",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Al Roker Keeps Family Tradition Alive Despite Macy’s Thanksgiving Day Parade Being Postponed for First Time Ever",
+      "url": "https://people.com/al-roker-keeps-family-tradition-alive-macys-thanksgiving-day-parade-postponed-first-time-ever-12283329"
+     },
+     {
+      "ricerca": "decoracao natal avenida paulista",
+      "paese": "BR",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "Empresa responsável por decoração de Natal de R$ 6 milhões na Avenida Paulista nunca havia vencido edital público",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/28/empresa-responsavel-por-decoracao-de-natal-de-r-6-milhoes-na-avenida-paulista-nunca-havia-vencido-edital-publico.ghtml"
+     },
+     {
+      "ricerca": "టెస్ట్ క్రికెట్",
+      "paese": "IN",
+      "volume": 1000,
+      "volume_testo": "1000+",
+      "notizia": "టీ బ్రేక్‌.. భారత్‌ స్కోర్‌ 59/3 |",
+      "url": "https://www.eenadu.net/breaking-news/426013752"
+     },
+     {
+      "ricerca": "gma deals and steals",
+      "paese": "US",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "'GMA' Deals & Steals for Black Friday",
+      "url": "https://abcnews.com/GMA/Shop/gma-deals-steals-black-friday/story?id=138385185"
+     },
+     {
+      "ricerca": "cristiano ronaldo",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Filho de CR7 faz dois gols e comemora em referência à marca do pai",
+      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/27/cristianinho-faz-dois-gols-e-celebra-em-referencia-a-marca-do-pai.ghtm"
+     },
+     {
+      "ricerca": "jornada de trabalho",
+      "paese": "BR",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Implementação de jornada de 40h e de escala 5x2 passa pela negociação coletiva",
+      "url": "https://www.gov.br/fundacentro/pt-br/comunicacao/noticias/noticias/2026/novembro/implementacao-de-jornada-de-40h-e-de-escala-5x2-passa-pela-negociacao-coletiva"
+     },
+     {
+      "ricerca": "hamburg vs bayern",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Kimmich crisis and Neuer controversy: Kompany refuses to address Bayern's thorny issues",
+      "url": "https://www.goal.com/en-in/news/kimmich-crisis-and-neuer-controversy-kompany-refuses-to-address-bayern-s-thorny-issues/bltbe0b6dfa463d59e6"
+     },
+     {
+      "ricerca": "mohammed shami",
+      "paese": "IN",
+      "volume": 500,
+      "volume_testo": "500+",
+      "notizia": "Veteran India pacer provides update on availability for CWC27",
+      "url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/veteran-india-pacer-provides-update-on-availability-for-cwc27"
+     },
+     {
+      "ricerca": "frosinone vs parma",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Frosinone vs Parma: Italian Serie A stats & head-to-head",
+      "url": "https://www.bbc.com/sport/football/live/ck5y1elydy5zt"
+     },
+     {
+      "ricerca": "hamburg vs bayern",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Preview: Hamburg vs. Bayern, Bundesliga Matchday 11",
+      "url": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-hamburg-bayern-bundesliga-matchday-11"
+     },
+     {
+      "ricerca": "wales vs japan",
+      "paese": "US",
+      "volume": 200,
+      "volume_testo": "200+",
+      "notizia": "Wales vs Japan LIVE: Nations Championship 2026 - live text & radio commentary",
+      "url": "https://www.bbc.com/sport/rugby-union/live/cqwy40z0kdpxt"
+     }
+    ]
+   }
+  }
+ }
+}
